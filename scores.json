@@ -1,36 +1,217 @@
 {
-  "lastUpdated": "2026-06-09T00:00:00Z",
-  "currentStage": "⏳ Tournament begins 11 June 2026",
+  "lastUpdated": "2026-06-10T21:29:23Z",
+  "currentStage": "\u23f3 Tournament begins 11 June 2026",
   "actualTournamentWinner": "",
   "actualTotalGoals": 0,
-  "actualGoldenBoot": "",
   "eliminatedTeams": [],
   "participants": [
-    { "name": "Jackoooo",             "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Rob Morgan",           "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Michael Q",            "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Cormac Sheehy",        "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Stephen Quinn",        "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Denis OC",             "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Kylian McFrappe",      "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Jack revell",          "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "MurderOnZidanesFloor", "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Cian Collins",         "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Conor skehan",         "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "JayRev",               "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Dina",                 "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Ciaran Slattery",      "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Kevin B",              "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Brian Crotty",         "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Dean Murphy",          "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Megan Farr",           "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Gloria O Regan",       "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Fiona Harte",          "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Bonbon Athletics",     "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Dean Walsh",           "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Pauly",                "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "James Conroy",         "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Rafael Antunes",       "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 },
-    { "name": "Puds",                 "matchPts": 0, "stagePts": 0, "gf": 0, "ga": 0, "maxPossible": 999 }
+    {
+      "name": "Jackoooo",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Rob Morgan",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Michael Q",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Cormac Sheehy",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Stephen Quinn",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Denis OC",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Kylian McFrappe",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Jack revell",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "MurderOnZidanesFloor",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Cian Collins",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Conor skehan",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "JayRev",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Dina",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Ciaran Slattery",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Kevin B",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Brian Crotty",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Dean Murphy",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Megan Farr",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Gloria O Regan",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Fiona Harte",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Bonbon Athletics",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Dean Walsh",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Pauly",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "James Conroy",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Rafael Antunes",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    },
+    {
+      "name": "Puds",
+      "matchPts": 0,
+      "stagePts": 0,
+      "gf": 0,
+      "ga": 0,
+      "maxPossible": 0
+    }
   ]
 }
