@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-10T22:31:16Z",
-  "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
+  "lastUpdated": "2026-06-11T12:55:41Z",
+  "currentStage": "\u23f3 Tournament begins 11 June 2026",
   "actualTournamentWinner": "",
   "actualTotalGoals": 0,
   "eliminatedTeams": [],
@@ -27,7 +27,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 3
+      "maxPossible": 0
     },
     {
       "name": "Cormac Sheehy",
@@ -91,7 +91,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 3
+      "maxPossible": 0
     },
     {
       "name": "JayRev",
@@ -211,7 +211,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 3
+      "maxPossible": 0
     }
   ]
 }
