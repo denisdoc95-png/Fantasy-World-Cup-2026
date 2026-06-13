@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T21:45:33Z",
+  "lastUpdated": "2026-06-13T22:15:40Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 14,
@@ -11,7 +11,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "Rob Morgan",
@@ -35,7 +35,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "Stephen Quinn",
@@ -51,7 +51,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "Kylian McFrappe",
@@ -59,7 +59,7 @@
       "stagePts": 0,
       "gf": 1,
       "ga": 2,
-      "maxPossible": 167
+      "maxPossible": 164
     },
     {
       "name": "Jack revell",
@@ -107,7 +107,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "Ciaran Slattery",
@@ -147,7 +147,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "Gloria O Regan",
@@ -171,7 +171,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "Dean Walsh",
@@ -195,7 +195,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "Rafael Antunes",
@@ -211,7 +211,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 170
+      "maxPossible": 167
     }
   ]
 }
