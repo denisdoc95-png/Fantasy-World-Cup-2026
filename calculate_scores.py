@@ -66,10 +66,10 @@ TEAM_NAME_MAP = {
     "Côte d'Ivoire": "Ivory Coast",
     "Korea Republic":"South Korea",
     "Czechia":       "Czech Republic",
-    "Bosnia and Herzegovina": "Bosnia and Herzegovina",
+    "Bosnia-Herzegovina": "Bosnia and Herzegovina",
     "DR Congo":      "DR Congo",
     "Congo DR":      "DR Congo",
-    "Cabo Verde":    "Cape Verde",
+    "Cape Verde Islands":    "Cape Verde",
     "England":       "England",      # API uses "England" not "Great Britain"
 }
 
