@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-14T08:45:49Z",
+  "lastUpdated": "2026-06-14T08:57:12Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 19,
+  "actualTotalGoals": 17,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -175,11 +175,11 @@
     },
     {
       "name": "Dean Walsh",
-      "matchPts": 4,
+      "matchPts": 3,
       "stagePts": 0,
-      "gf": 2,
-      "ga": 1,
-      "maxPossible": 168
+      "gf": 1,
+      "ga": 0,
+      "maxPossible": 167
     },
     {
       "name": "Pauly",
