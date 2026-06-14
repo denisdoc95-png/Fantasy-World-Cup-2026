@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-14T03:00:50Z",
+  "lastUpdated": "2026-06-14T03:15:34Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 16,
+  "actualTotalGoals": 17,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -39,11 +39,11 @@
     },
     {
       "name": "Stephen Quinn",
-      "matchPts": 0,
+      "matchPts": 3,
       "stagePts": 0,
-      "gf": 0,
+      "gf": 1,
       "ga": 0,
-      "maxPossible": 167
+      "maxPossible": 170
     },
     {
       "name": "Denis OC",
@@ -63,11 +63,11 @@
     },
     {
       "name": "Jack revell",
-      "matchPts": 0,
+      "matchPts": 3,
       "stagePts": 0,
-      "gf": 1,
+      "gf": 2,
       "ga": 2,
-      "maxPossible": 164
+      "maxPossible": 167
     },
     {
       "name": "MurderOnZidanesFloor",
@@ -167,19 +167,19 @@
     },
     {
       "name": "Bonbon Athletics",
-      "matchPts": 1,
+      "matchPts": 4,
       "stagePts": 0,
-      "gf": 1,
+      "gf": 2,
       "ga": 1,
-      "maxPossible": 165
+      "maxPossible": 168
     },
     {
       "name": "Dean Walsh",
-      "matchPts": 1,
+      "matchPts": 4,
       "stagePts": 0,
-      "gf": 1,
+      "gf": 2,
       "ga": 1,
-      "maxPossible": 165
+      "maxPossible": 168
     },
     {
       "name": "Pauly",
