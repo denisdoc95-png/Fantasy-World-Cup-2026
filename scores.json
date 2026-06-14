@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T04:00:50Z",
+  "lastUpdated": "2026-06-14T04:15:33Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 17,
@@ -11,7 +11,7 @@
       "stagePts": 0,
       "gf": 1,
       "ga": 1,
-      "maxPossible": 168
+      "maxPossible": 165
     },
     {
       "name": "Rob Morgan",
@@ -75,7 +75,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "Cian Collins",
@@ -83,7 +83,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "Conor skehan",
@@ -91,7 +91,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "JayRev",
@@ -107,7 +107,7 @@
       "stagePts": 0,
       "gf": 1,
       "ga": 1,
-      "maxPossible": 168
+      "maxPossible": 165
     },
     {
       "name": "Ciaran Slattery",
@@ -147,7 +147,7 @@
       "stagePts": 0,
       "gf": 1,
       "ga": 1,
-      "maxPossible": 168
+      "maxPossible": 165
     },
     {
       "name": "Gloria O Regan",
@@ -187,7 +187,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "James Conroy",
