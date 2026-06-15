@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-15T04:00:50Z",
+  "lastUpdated": "2026-06-15T04:15:33Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 32,
+  "actualTotalGoals": 37,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -25,33 +25,33 @@
       "name": "Michael Q",
       "matchPts": 7,
       "stagePts": 0,
-      "gf": 9,
-      "ga": 2,
+      "gf": 13,
+      "ga": 3,
       "maxPossible": 165
     },
     {
       "name": "Cormac Sheehy",
-      "matchPts": 1,
+      "matchPts": 4,
       "stagePts": 0,
-      "gf": 1,
-      "ga": 1,
-      "maxPossible": 165
+      "gf": 6,
+      "ga": 2,
+      "maxPossible": 168
     },
     {
       "name": "Stephen Quinn",
-      "matchPts": 3,
+      "matchPts": 6,
       "stagePts": 0,
-      "gf": 1,
-      "ga": 0,
-      "maxPossible": 167
+      "gf": 6,
+      "ga": 1,
+      "maxPossible": 170
     },
     {
       "name": "Denis OC",
-      "matchPts": 1,
+      "matchPts": 4,
       "stagePts": 0,
-      "gf": 1,
-      "ga": 1,
-      "maxPossible": 165
+      "gf": 6,
+      "ga": 2,
+      "maxPossible": 168
     },
     {
       "name": "Kylian McFrappe",
@@ -87,11 +87,11 @@
     },
     {
       "name": "Conor skehan",
-      "matchPts": 3,
+      "matchPts": 0,
       "stagePts": 0,
-      "gf": 1,
+      "gf": 0,
       "ga": 2,
-      "maxPossible": 167
+      "maxPossible": 164
     },
     {
       "name": "JayRev",
@@ -127,19 +127,19 @@
     },
     {
       "name": "Brian Crotty",
-      "matchPts": 1,
+      "matchPts": 4,
       "stagePts": 0,
-      "gf": 2,
-      "ga": 2,
-      "maxPossible": 165
+      "gf": 7,
+      "ga": 3,
+      "maxPossible": 168
     },
     {
       "name": "Dean Murphy",
-      "matchPts": 0,
+      "matchPts": 3,
       "stagePts": 0,
-      "gf": 0,
-      "ga": 0,
-      "maxPossible": 167
+      "gf": 5,
+      "ga": 1,
+      "maxPossible": 170
     },
     {
       "name": "Megan Farr",
@@ -151,11 +151,11 @@
     },
     {
       "name": "Gloria O Regan",
-      "matchPts": 1,
+      "matchPts": 4,
       "stagePts": 0,
-      "gf": 2,
-      "ga": 2,
-      "maxPossible": 165
+      "gf": 7,
+      "ga": 3,
+      "maxPossible": 168
     },
     {
       "name": "Fiona Harte",
@@ -167,11 +167,11 @@
     },
     {
       "name": "Bonbon Athletics",
-      "matchPts": 5,
+      "matchPts": 8,
       "stagePts": 0,
-      "gf": 4,
-      "ga": 3,
-      "maxPossible": 163
+      "gf": 9,
+      "ga": 4,
+      "maxPossible": 166
     },
     {
       "name": "Dean Walsh",
@@ -191,11 +191,11 @@
     },
     {
       "name": "James Conroy",
-      "matchPts": 1,
+      "matchPts": 4,
       "stagePts": 0,
-      "gf": 1,
-      "ga": 1,
-      "maxPossible": 165
+      "gf": 6,
+      "ga": 2,
+      "maxPossible": 168
     },
     {
       "name": "Rafael Antunes",
@@ -209,8 +209,8 @@
       "name": "Puds",
       "matchPts": 4,
       "stagePts": 0,
-      "gf": 2,
-      "ga": 1,
+      "gf": 6,
+      "ga": 2,
       "maxPossible": 165
     }
   ]
