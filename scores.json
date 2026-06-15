@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T22:01:06Z",
+  "lastUpdated": "2026-06-15T22:15:40Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 40,
@@ -115,7 +115,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 168
+      "maxPossible": 165
     },
     {
       "name": "Kevin B",
@@ -155,7 +155,7 @@
       "stagePts": 0,
       "gf": 7,
       "ga": 3,
-      "maxPossible": 166
+      "maxPossible": 163
     },
     {
       "name": "Fiona Harte",
@@ -179,7 +179,7 @@
       "stagePts": 0,
       "gf": 9,
       "ga": 2,
-      "maxPossible": 168
+      "maxPossible": 165
     },
     {
       "name": "Pauly",
@@ -211,7 +211,7 @@
       "stagePts": 0,
       "gf": 7,
       "ga": 2,
-      "maxPossible": 168
+      "maxPossible": 165
     }
   ]
 }
