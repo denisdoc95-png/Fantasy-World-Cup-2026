@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-16T00:01:04Z",
+  "lastUpdated": "2026-06-16T00:15:34Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 40,
+  "actualTotalGoals": 42,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -111,11 +111,11 @@
     },
     {
       "name": "Ciaran Slattery",
-      "matchPts": 1,
+      "matchPts": 2,
       "stagePts": 0,
-      "gf": 0,
-      "ga": 0,
-      "maxPossible": 165
+      "gf": 1,
+      "ga": 1,
+      "maxPossible": 166
     },
     {
       "name": "Kevin B",
@@ -151,11 +151,11 @@
     },
     {
       "name": "Gloria O Regan",
-      "matchPts": 5,
+      "matchPts": 6,
       "stagePts": 0,
-      "gf": 7,
-      "ga": 3,
-      "maxPossible": 163
+      "gf": 8,
+      "ga": 4,
+      "maxPossible": 164
     },
     {
       "name": "Fiona Harte",
@@ -175,11 +175,11 @@
     },
     {
       "name": "Dean Walsh",
-      "matchPts": 7,
+      "matchPts": 8,
       "stagePts": 0,
-      "gf": 9,
-      "ga": 2,
-      "maxPossible": 165
+      "gf": 10,
+      "ga": 3,
+      "maxPossible": 166
     },
     {
       "name": "Pauly",
@@ -207,11 +207,11 @@
     },
     {
       "name": "Puds",
-      "matchPts": 7,
+      "matchPts": 8,
       "stagePts": 0,
-      "gf": 7,
-      "ga": 2,
-      "maxPossible": 165
+      "gf": 8,
+      "ga": 3,
+      "maxPossible": 166
     }
   ]
 }
