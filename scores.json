@@ -1,81 +1,81 @@
 {
-  "lastUpdated": "2026-06-16T21:01:01Z",
+  "lastUpdated": "2026-06-16T21:15:39Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 46,
+  "actualTotalGoals": 50,
   "eliminatedTeams": [],
   "participants": [
     {
       "name": "Jackoooo",
-      "matchPts": 1,
-      "stagePts": 0,
-      "gf": 1,
-      "ga": 3,
-      "maxPossible": 162
-    },
-    {
-      "name": "Rob Morgan",
-      "matchPts": 2,
-      "stagePts": 0,
-      "gf": 0,
-      "ga": 0,
-      "maxPossible": 163
-    },
-    {
-      "name": "Michael Q",
-      "matchPts": 10,
-      "stagePts": 0,
-      "gf": 14,
-      "ga": 3,
-      "maxPossible": 165
-    },
-    {
-      "name": "Cormac Sheehy",
       "matchPts": 4,
-      "stagePts": 0,
-      "gf": 6,
-      "ga": 2,
-      "maxPossible": 165
-    },
-    {
-      "name": "Stephen Quinn",
-      "matchPts": 6,
-      "stagePts": 0,
-      "gf": 6,
-      "ga": 1,
-      "maxPossible": 164
-    },
-    {
-      "name": "Denis OC",
-      "matchPts": 5,
-      "stagePts": 0,
-      "gf": 6,
-      "ga": 2,
-      "maxPossible": 163
-    },
-    {
-      "name": "Kylian McFrappe",
-      "matchPts": 1,
-      "stagePts": 0,
-      "gf": 2,
-      "ga": 3,
-      "maxPossible": 162
-    },
-    {
-      "name": "Jack revell",
-      "matchPts": 5,
       "stagePts": 0,
       "gf": 4,
       "ga": 4,
-      "maxPossible": 160
+      "maxPossible": 165
+    },
+    {
+      "name": "Rob Morgan",
+      "matchPts": 5,
+      "stagePts": 0,
+      "gf": 3,
+      "ga": 1,
+      "maxPossible": 166
+    },
+    {
+      "name": "Michael Q",
+      "matchPts": 13,
+      "stagePts": 0,
+      "gf": 17,
+      "ga": 4,
+      "maxPossible": 168
+    },
+    {
+      "name": "Cormac Sheehy",
+      "matchPts": 7,
+      "stagePts": 0,
+      "gf": 9,
+      "ga": 3,
+      "maxPossible": 168
+    },
+    {
+      "name": "Stephen Quinn",
+      "matchPts": 9,
+      "stagePts": 0,
+      "gf": 10,
+      "ga": 5,
+      "maxPossible": 167
+    },
+    {
+      "name": "Denis OC",
+      "matchPts": 8,
+      "stagePts": 0,
+      "gf": 9,
+      "ga": 3,
+      "maxPossible": 166
+    },
+    {
+      "name": "Kylian McFrappe",
+      "matchPts": 4,
+      "stagePts": 0,
+      "gf": 5,
+      "ga": 4,
+      "maxPossible": 165
+    },
+    {
+      "name": "Jack revell",
+      "matchPts": 8,
+      "stagePts": 0,
+      "gf": 7,
+      "ga": 5,
+      "maxPossible": 163
     },
     {
       "name": "MurderOnZidanesFloor",
-      "matchPts": 1,
+      "matchPts": 4,
       "stagePts": 0,
-      "gf": 0,
-      "ga": 2,
-      "maxPossible": 162
+      "gf": 3,
+      "ga": 3,
+      "maxPossible": 165
     },
     {
       "name": "Cian Collins",
@@ -87,11 +87,11 @@
     },
     {
       "name": "Conor skehan",
-      "matchPts": 4,
+      "matchPts": 7,
       "stagePts": 0,
-      "gf": 1,
-      "ga": 2,
-      "maxPossible": 162
+      "gf": 4,
+      "ga": 3,
+      "maxPossible": 165
     },
     {
       "name": "JayRev",
@@ -119,35 +119,35 @@
     },
     {
       "name": "Kevin B",
-      "matchPts": 1,
+      "matchPts": 4,
       "stagePts": 0,
-      "gf": 1,
-      "ga": 4,
-      "maxPossible": 162
+      "gf": 4,
+      "ga": 5,
+      "maxPossible": 165
     },
     {
       "name": "Brian Crotty",
-      "matchPts": 5,
+      "matchPts": 8,
       "stagePts": 0,
-      "gf": 7,
-      "ga": 3,
-      "maxPossible": 163
+      "gf": 10,
+      "ga": 4,
+      "maxPossible": 166
     },
     {
       "name": "Dean Murphy",
-      "matchPts": 3,
+      "matchPts": 6,
       "stagePts": 0,
-      "gf": 5,
-      "ga": 1,
-      "maxPossible": 167
+      "gf": 8,
+      "ga": 2,
+      "maxPossible": 170
     },
     {
       "name": "Megan Farr",
-      "matchPts": 2,
+      "matchPts": 5,
       "stagePts": 0,
-      "gf": 1,
-      "ga": 3,
-      "maxPossible": 160
+      "gf": 4,
+      "ga": 4,
+      "maxPossible": 163
     },
     {
       "name": "Gloria O Regan",
@@ -175,11 +175,11 @@
     },
     {
       "name": "Dean Walsh",
-      "matchPts": 8,
+      "matchPts": 11,
       "stagePts": 0,
-      "gf": 10,
-      "ga": 3,
-      "maxPossible": 163
+      "gf": 13,
+      "ga": 4,
+      "maxPossible": 166
     },
     {
       "name": "Pauly",
@@ -191,19 +191,19 @@
     },
     {
       "name": "James Conroy",
-      "matchPts": 6,
+      "matchPts": 9,
       "stagePts": 0,
-      "gf": 7,
-      "ga": 3,
-      "maxPossible": 161
+      "gf": 10,
+      "ga": 4,
+      "maxPossible": 164
     },
     {
       "name": "Rafael Antunes",
-      "matchPts": 2,
+      "matchPts": 5,
       "stagePts": 0,
-      "gf": 2,
-      "ga": 2,
-      "maxPossible": 163
+      "gf": 5,
+      "ga": 3,
+      "maxPossible": 166
     },
     {
       "name": "Puds",
