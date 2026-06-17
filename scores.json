@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-17T22:00:57Z",
+  "lastUpdated": "2026-06-17T22:15:37Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 64,
+  "actualTotalGoals": 70,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -17,8 +17,8 @@
       "name": "Rob Morgan",
       "matchPts": 8,
       "stagePts": 0,
-      "gf": 7,
-      "ga": 2,
+      "gf": 9,
+      "ga": 6,
       "maxPossible": 163
     },
     {
@@ -39,11 +39,11 @@
     },
     {
       "name": "Stephen Quinn",
-      "matchPts": 9,
+      "matchPts": 12,
       "stagePts": 0,
-      "gf": 10,
-      "ga": 5,
-      "maxPossible": 164
+      "gf": 14,
+      "ga": 7,
+      "maxPossible": 167
     },
     {
       "name": "Denis OC",
@@ -73,16 +73,16 @@
       "name": "MurderOnZidanesFloor",
       "matchPts": 7,
       "stagePts": 0,
-      "gf": 7,
-      "ga": 4,
+      "gf": 9,
+      "ga": 8,
       "maxPossible": 162
     },
     {
       "name": "Cian Collins",
       "matchPts": 7,
       "stagePts": 0,
-      "gf": 7,
-      "ga": 3,
+      "gf": 9,
+      "ga": 7,
       "maxPossible": 162
     },
     {
@@ -95,11 +95,11 @@
     },
     {
       "name": "JayRev",
-      "matchPts": 3,
+      "matchPts": 6,
       "stagePts": 0,
-      "gf": 6,
-      "ga": 7,
-      "maxPossible": 158
+      "gf": 12,
+      "ga": 13,
+      "maxPossible": 161
     },
     {
       "name": "Dina",
@@ -121,8 +121,8 @@
       "name": "Kevin B",
       "matchPts": 4,
       "stagePts": 0,
-      "gf": 4,
-      "ga": 5,
+      "gf": 6,
+      "ga": 9,
       "maxPossible": 162
     },
     {
@@ -137,8 +137,8 @@
       "name": "Dean Murphy",
       "matchPts": 12,
       "stagePts": 0,
-      "gf": 15,
-      "ga": 3,
+      "gf": 17,
+      "ga": 7,
       "maxPossible": 167
     },
     {
@@ -161,8 +161,8 @@
       "name": "Fiona Harte",
       "matchPts": 7,
       "stagePts": 0,
-      "gf": 7,
-      "ga": 1,
+      "gf": 9,
+      "ga": 5,
       "maxPossible": 165
     },
     {
@@ -183,11 +183,11 @@
     },
     {
       "name": "Pauly",
-      "matchPts": 4,
+      "matchPts": 7,
       "stagePts": 0,
-      "gf": 4,
-      "ga": 3,
-      "maxPossible": 162
+      "gf": 8,
+      "ga": 5,
+      "maxPossible": 165
     },
     {
       "name": "James Conroy",
