@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T23:00:57Z",
+  "lastUpdated": "2026-06-17T23:15:34Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 70,
@@ -115,7 +115,7 @@
       "stagePts": 0,
       "gf": 8,
       "ga": 2,
-      "maxPossible": 166
+      "maxPossible": 163
     },
     {
       "name": "Kevin B",
@@ -123,7 +123,7 @@
       "stagePts": 0,
       "gf": 6,
       "ga": 9,
-      "maxPossible": 162
+      "maxPossible": 159
     },
     {
       "name": "Brian Crotty",
@@ -163,7 +163,7 @@
       "stagePts": 0,
       "gf": 9,
       "ga": 5,
-      "maxPossible": 165
+      "maxPossible": 162
     },
     {
       "name": "Bonbon Athletics",
