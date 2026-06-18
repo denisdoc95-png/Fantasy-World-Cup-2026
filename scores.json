@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-18T18:00:55Z",
+  "lastUpdated": "2026-06-18T18:15:34Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 75,
+  "actualTotalGoals": 77,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -55,19 +55,19 @@
     },
     {
       "name": "Kylian McFrappe",
-      "matchPts": 10,
+      "matchPts": 11,
       "stagePts": 0,
-      "gf": 12,
-      "ga": 5,
-      "maxPossible": 162
+      "gf": 13,
+      "ga": 6,
+      "maxPossible": 163
     },
     {
       "name": "Jack revell",
-      "matchPts": 8,
+      "matchPts": 9,
       "stagePts": 0,
-      "gf": 7,
-      "ga": 5,
-      "maxPossible": 160
+      "gf": 8,
+      "ga": 6,
+      "maxPossible": 161
     },
     {
       "name": "MurderOnZidanesFloor",
@@ -95,11 +95,11 @@
     },
     {
       "name": "JayRev",
-      "matchPts": 6,
+      "matchPts": 7,
       "stagePts": 0,
-      "gf": 12,
-      "ga": 13,
-      "maxPossible": 158
+      "gf": 13,
+      "ga": 14,
+      "maxPossible": 159
     },
     {
       "name": "Dina",
