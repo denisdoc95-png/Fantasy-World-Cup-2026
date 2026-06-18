@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-18T11:45:46Z",
+  "lastUpdated": "2026-06-18T11:58:12Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 75,
+  "actualTotalGoals": 74,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -111,19 +111,19 @@
     },
     {
       "name": "Ciaran Slattery",
-      "matchPts": 11,
+      "matchPts": 8,
       "stagePts": 0,
-      "gf": 9,
+      "gf": 8,
       "ga": 2,
-      "maxPossible": 166
+      "maxPossible": 163
     },
     {
       "name": "Kevin B",
-      "matchPts": 7,
+      "matchPts": 4,
       "stagePts": 0,
-      "gf": 7,
+      "gf": 6,
       "ga": 9,
-      "maxPossible": 162
+      "maxPossible": 159
     },
     {
       "name": "Brian Crotty",
@@ -159,11 +159,11 @@
     },
     {
       "name": "Fiona Harte",
-      "matchPts": 10,
+      "matchPts": 7,
       "stagePts": 0,
-      "gf": 10,
+      "gf": 9,
       "ga": 5,
-      "maxPossible": 165
+      "maxPossible": 162
     },
     {
       "name": "Bonbon Athletics",
