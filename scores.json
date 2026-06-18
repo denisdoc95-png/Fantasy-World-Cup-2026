@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T02:00:52Z",
+  "lastUpdated": "2026-06-18T02:15:34Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 71,
@@ -91,7 +91,7 @@
       "stagePts": 0,
       "gf": 4,
       "ga": 3,
-      "maxPossible": 165
+      "maxPossible": 162
     },
     {
       "name": "JayRev",
@@ -187,7 +187,7 @@
       "stagePts": 0,
       "gf": 8,
       "ga": 5,
-      "maxPossible": 165
+      "maxPossible": 162
     },
     {
       "name": "James Conroy",
