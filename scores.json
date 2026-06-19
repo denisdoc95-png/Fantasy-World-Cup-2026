@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T22:00:56Z",
+  "lastUpdated": "2026-06-19T22:15:39Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 91,
@@ -11,7 +11,7 @@
       "stagePts": 0,
       "gf": 11,
       "ga": 5,
-      "maxPossible": 165
+      "maxPossible": 162
     },
     {
       "name": "Rob Morgan",
@@ -35,7 +35,7 @@
       "stagePts": 0,
       "gf": 16,
       "ga": 4,
-      "maxPossible": 168
+      "maxPossible": 165
     },
     {
       "name": "Stephen Quinn",
@@ -43,7 +43,7 @@
       "stagePts": 0,
       "gf": 14,
       "ga": 7,
-      "maxPossible": 167
+      "maxPossible": 164
     },
     {
       "name": "Denis OC",
@@ -51,7 +51,7 @@
       "stagePts": 0,
       "gf": 13,
       "ga": 4,
-      "maxPossible": 166
+      "maxPossible": 163
     },
     {
       "name": "Kylian McFrappe",
@@ -59,7 +59,7 @@
       "stagePts": 0,
       "gf": 13,
       "ga": 6,
-      "maxPossible": 163
+      "maxPossible": 160
     },
     {
       "name": "Jack revell",
@@ -67,7 +67,7 @@
       "stagePts": 0,
       "gf": 8,
       "ga": 6,
-      "maxPossible": 161
+      "maxPossible": 158
     },
     {
       "name": "MurderOnZidanesFloor",
@@ -107,7 +107,7 @@
       "stagePts": 0,
       "gf": 5,
       "ga": 4,
-      "maxPossible": 161
+      "maxPossible": 158
     },
     {
       "name": "Ciaran Slattery",
@@ -147,7 +147,7 @@
       "stagePts": 0,
       "gf": 8,
       "ga": 5,
-      "maxPossible": 163
+      "maxPossible": 160
     },
     {
       "name": "Gloria O Regan",
@@ -171,7 +171,7 @@
       "stagePts": 0,
       "gf": 9,
       "ga": 4,
-      "maxPossible": 164
+      "maxPossible": 161
     },
     {
       "name": "Dean Walsh",
@@ -179,7 +179,7 @@
       "stagePts": 0,
       "gf": 14,
       "ga": 8,
-      "maxPossible": 163
+      "maxPossible": 160
     },
     {
       "name": "Pauly",
@@ -195,7 +195,7 @@
       "stagePts": 0,
       "gf": 10,
       "ga": 4,
-      "maxPossible": 164
+      "maxPossible": 161
     },
     {
       "name": "Rafael Antunes",
