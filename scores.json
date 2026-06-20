@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T17:00:57Z",
+  "lastUpdated": "2026-06-20T17:15:38Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 96,
@@ -27,7 +27,7 @@
       "stagePts": 0,
       "gf": 21,
       "ga": 5,
-      "maxPossible": 168
+      "maxPossible": 165
     },
     {
       "name": "Cormac Sheehy",
@@ -35,7 +35,7 @@
       "stagePts": 0,
       "gf": 17,
       "ga": 4,
-      "maxPossible": 168
+      "maxPossible": 165
     },
     {
       "name": "Stephen Quinn",
@@ -43,7 +43,7 @@
       "stagePts": 0,
       "gf": 14,
       "ga": 8,
-      "maxPossible": 164
+      "maxPossible": 161
     },
     {
       "name": "Denis OC",
@@ -51,7 +51,7 @@
       "stagePts": 0,
       "gf": 14,
       "ga": 4,
-      "maxPossible": 166
+      "maxPossible": 163
     },
     {
       "name": "Kylian McFrappe",
@@ -131,7 +131,7 @@
       "stagePts": 0,
       "gf": 14,
       "ga": 5,
-      "maxPossible": 166
+      "maxPossible": 163
     },
     {
       "name": "Dean Murphy",
@@ -139,7 +139,7 @@
       "stagePts": 0,
       "gf": 17,
       "ga": 7,
-      "maxPossible": 167
+      "maxPossible": 164
     },
     {
       "name": "Megan Farr",
@@ -155,7 +155,7 @@
       "stagePts": 0,
       "gf": 12,
       "ga": 5,
-      "maxPossible": 164
+      "maxPossible": 158
     },
     {
       "name": "Fiona Harte",
@@ -171,7 +171,7 @@
       "stagePts": 0,
       "gf": 12,
       "ga": 5,
-      "maxPossible": 161
+      "maxPossible": 158
     },
     {
       "name": "Dean Walsh",
@@ -195,7 +195,7 @@
       "stagePts": 0,
       "gf": 11,
       "ga": 4,
-      "maxPossible": 164
+      "maxPossible": 161
     },
     {
       "name": "Rafael Antunes",
@@ -211,7 +211,7 @@
       "stagePts": 0,
       "gf": 12,
       "ga": 4,
-      "maxPossible": 164
+      "maxPossible": 161
     }
   ]
 }
