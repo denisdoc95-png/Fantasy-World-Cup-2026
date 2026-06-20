@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-20T22:00:54Z",
+  "lastUpdated": "2026-06-20T22:05:45Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 102,
+  "actualTotalGoals": 105,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -23,11 +23,11 @@
     },
     {
       "name": "Michael Q",
-      "matchPts": 16,
+      "matchPts": 19,
       "stagePts": 0,
-      "gf": 22,
-      "ga": 10,
-      "maxPossible": 159
+      "gf": 25,
+      "ga": 13,
+      "maxPossible": 162
     },
     {
       "name": "Cormac Sheehy",
@@ -89,8 +89,8 @@
       "name": "Conor skehan",
       "matchPts": 10,
       "stagePts": 0,
-      "gf": 7,
-      "ga": 5,
+      "gf": 8,
+      "ga": 7,
       "maxPossible": 159
     },
     {
@@ -175,11 +175,11 @@
     },
     {
       "name": "Dean Walsh",
-      "matchPts": 11,
+      "matchPts": 14,
       "stagePts": 0,
-      "gf": 14,
-      "ga": 9,
-      "maxPossible": 157
+      "gf": 16,
+      "ga": 10,
+      "maxPossible": 160
     },
     {
       "name": "Pauly",
@@ -209,8 +209,8 @@
       "name": "Puds",
       "matchPts": 12,
       "stagePts": 0,
-      "gf": 13,
-      "ga": 9,
+      "gf": 14,
+      "ga": 11,
       "maxPossible": 158
     }
   ]
