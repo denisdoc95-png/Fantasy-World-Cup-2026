@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-20T00:00:56Z",
+  "lastUpdated": "2026-06-20T00:15:36Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 91,
+  "actualTotalGoals": 92,
   "eliminatedTeams": [],
   "participants": [
     {
       "name": "Jackoooo",
-      "matchPts": 10,
+      "matchPts": 13,
       "stagePts": 0,
-      "gf": 11,
+      "gf": 12,
       "ga": 5,
-      "maxPossible": 162
+      "maxPossible": 165
     },
     {
       "name": "Rob Morgan",
@@ -31,42 +31,42 @@
     },
     {
       "name": "Cormac Sheehy",
-      "matchPts": 13,
+      "matchPts": 16,
       "stagePts": 0,
-      "gf": 16,
+      "gf": 17,
       "ga": 4,
-      "maxPossible": 165
+      "maxPossible": 168
     },
     {
       "name": "Stephen Quinn",
       "matchPts": 12,
       "stagePts": 0,
       "gf": 14,
-      "ga": 7,
+      "ga": 8,
       "maxPossible": 164
     },
     {
       "name": "Denis OC",
-      "matchPts": 11,
+      "matchPts": 14,
       "stagePts": 0,
-      "gf": 13,
+      "gf": 14,
       "ga": 4,
-      "maxPossible": 163
+      "maxPossible": 166
     },
     {
       "name": "Kylian McFrappe",
-      "matchPts": 11,
+      "matchPts": 14,
       "stagePts": 0,
-      "gf": 13,
+      "gf": 14,
       "ga": 6,
-      "maxPossible": 160
+      "maxPossible": 163
     },
     {
       "name": "Jack revell",
       "matchPts": 9,
       "stagePts": 0,
       "gf": 8,
-      "ga": 6,
+      "ga": 7,
       "maxPossible": 158
     },
     {
@@ -103,11 +103,11 @@
     },
     {
       "name": "Dina",
-      "matchPts": 6,
+      "matchPts": 9,
       "stagePts": 0,
-      "gf": 5,
+      "gf": 6,
       "ga": 4,
-      "maxPossible": 158
+      "maxPossible": 161
     },
     {
       "name": "Ciaran Slattery",
@@ -143,11 +143,11 @@
     },
     {
       "name": "Megan Farr",
-      "matchPts": 8,
+      "matchPts": 11,
       "stagePts": 0,
-      "gf": 8,
+      "gf": 9,
       "ga": 5,
-      "maxPossible": 160
+      "maxPossible": 163
     },
     {
       "name": "Gloria O Regan",
@@ -170,7 +170,7 @@
       "matchPts": 9,
       "stagePts": 0,
       "gf": 9,
-      "ga": 4,
+      "ga": 5,
       "maxPossible": 161
     },
     {
@@ -178,7 +178,7 @@
       "matchPts": 11,
       "stagePts": 0,
       "gf": 14,
-      "ga": 8,
+      "ga": 9,
       "maxPossible": 160
     },
     {
@@ -191,11 +191,11 @@
     },
     {
       "name": "James Conroy",
-      "matchPts": 9,
+      "matchPts": 12,
       "stagePts": 0,
-      "gf": 10,
+      "gf": 11,
       "ga": 4,
-      "maxPossible": 161
+      "maxPossible": 164
     },
     {
       "name": "Rafael Antunes",
