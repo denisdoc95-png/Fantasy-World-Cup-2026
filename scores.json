@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-20T02:30:50Z",
+  "lastUpdated": "2026-06-20T02:45:37Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 92,
+  "actualTotalGoals": 95,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -167,11 +167,11 @@
     },
     {
       "name": "Bonbon Athletics",
-      "matchPts": 9,
+      "matchPts": 12,
       "stagePts": 0,
-      "gf": 9,
+      "gf": 12,
       "ga": 5,
-      "maxPossible": 158
+      "maxPossible": 161
     },
     {
       "name": "Dean Walsh",
@@ -207,11 +207,11 @@
     },
     {
       "name": "Puds",
-      "matchPts": 9,
+      "matchPts": 12,
       "stagePts": 0,
-      "gf": 9,
+      "gf": 12,
       "ga": 4,
-      "maxPossible": 161
+      "maxPossible": 164
     }
   ]
 }
