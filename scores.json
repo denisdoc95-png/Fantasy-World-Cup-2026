@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-20T19:00:57Z",
+  "lastUpdated": "2026-06-20T19:15:37Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 96,
+  "actualTotalGoals": 102,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -25,32 +25,32 @@
       "name": "Michael Q",
       "matchPts": 16,
       "stagePts": 0,
-      "gf": 21,
-      "ga": 5,
+      "gf": 22,
+      "ga": 10,
       "maxPossible": 165
     },
     {
       "name": "Cormac Sheehy",
       "matchPts": 16,
       "stagePts": 0,
-      "gf": 17,
-      "ga": 4,
+      "gf": 18,
+      "ga": 9,
       "maxPossible": 165
     },
     {
       "name": "Stephen Quinn",
       "matchPts": 12,
       "stagePts": 0,
-      "gf": 14,
-      "ga": 8,
+      "gf": 15,
+      "ga": 13,
       "maxPossible": 161
     },
     {
       "name": "Denis OC",
       "matchPts": 14,
       "stagePts": 0,
-      "gf": 14,
-      "ga": 4,
+      "gf": 15,
+      "ga": 9,
       "maxPossible": 163
     },
     {
@@ -129,16 +129,16 @@
       "name": "Brian Crotty",
       "matchPts": 11,
       "stagePts": 0,
-      "gf": 14,
-      "ga": 5,
+      "gf": 15,
+      "ga": 10,
       "maxPossible": 163
     },
     {
       "name": "Dean Murphy",
       "matchPts": 12,
       "stagePts": 0,
-      "gf": 17,
-      "ga": 7,
+      "gf": 18,
+      "ga": 12,
       "maxPossible": 164
     },
     {
@@ -151,11 +151,11 @@
     },
     {
       "name": "Gloria O Regan",
-      "matchPts": 9,
+      "matchPts": 12,
       "stagePts": 0,
-      "gf": 12,
-      "ga": 5,
-      "maxPossible": 158
+      "gf": 18,
+      "ga": 11,
+      "maxPossible": 161
     },
     {
       "name": "Fiona Harte",
@@ -169,8 +169,8 @@
       "name": "Bonbon Athletics",
       "matchPts": 12,
       "stagePts": 0,
-      "gf": 12,
-      "ga": 5,
+      "gf": 13,
+      "ga": 10,
       "maxPossible": 158
     },
     {
@@ -193,8 +193,8 @@
       "name": "James Conroy",
       "matchPts": 12,
       "stagePts": 0,
-      "gf": 11,
-      "ga": 4,
+      "gf": 12,
+      "ga": 9,
       "maxPossible": 161
     },
     {
@@ -209,8 +209,8 @@
       "name": "Puds",
       "matchPts": 12,
       "stagePts": 0,
-      "gf": 12,
-      "ga": 4,
+      "gf": 13,
+      "ga": 9,
       "maxPossible": 161
     }
   ]
