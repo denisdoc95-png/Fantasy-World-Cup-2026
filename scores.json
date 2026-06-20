@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T00:30:45Z",
+  "lastUpdated": "2026-06-20T00:45:32Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 92,
@@ -171,7 +171,7 @@
       "stagePts": 0,
       "gf": 9,
       "ga": 5,
-      "maxPossible": 161
+      "maxPossible": 158
     },
     {
       "name": "Dean Walsh",
@@ -211,7 +211,7 @@
       "stagePts": 0,
       "gf": 9,
       "ga": 4,
-      "maxPossible": 164
+      "maxPossible": 161
     }
   ]
 }
