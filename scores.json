@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-21T18:00:56Z",
+  "lastUpdated": "2026-06-21T18:15:36Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 109,
+  "actualTotalGoals": 114,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -15,11 +15,11 @@
     },
     {
       "name": "Rob Morgan",
-      "matchPts": 8,
+      "matchPts": 11,
       "stagePts": 0,
-      "gf": 9,
+      "gf": 14,
       "ga": 6,
-      "maxPossible": 160
+      "maxPossible": 163
     },
     {
       "name": "Michael Q",
@@ -47,11 +47,11 @@
     },
     {
       "name": "Denis OC",
-      "matchPts": 14,
+      "matchPts": 17,
       "stagePts": 0,
-      "gf": 15,
+      "gf": 20,
       "ga": 9,
-      "maxPossible": 160
+      "maxPossible": 163
     },
     {
       "name": "Kylian McFrappe",
@@ -63,35 +63,35 @@
     },
     {
       "name": "Jack revell",
-      "matchPts": 12,
+      "matchPts": 15,
       "stagePts": 0,
-      "gf": 12,
+      "gf": 17,
       "ga": 7,
-      "maxPossible": 155
+      "maxPossible": 158
     },
     {
       "name": "MurderOnZidanesFloor",
-      "matchPts": 7,
+      "matchPts": 10,
       "stagePts": 0,
-      "gf": 9,
+      "gf": 14,
       "ga": 9,
-      "maxPossible": 156
+      "maxPossible": 159
     },
     {
       "name": "Cian Collins",
-      "matchPts": 7,
+      "matchPts": 10,
       "stagePts": 0,
-      "gf": 9,
+      "gf": 14,
       "ga": 8,
-      "maxPossible": 156
+      "maxPossible": 159
     },
     {
       "name": "Conor skehan",
-      "matchPts": 10,
+      "matchPts": 13,
       "stagePts": 0,
-      "gf": 8,
+      "gf": 13,
       "ga": 7,
-      "maxPossible": 156
+      "maxPossible": 159
     },
     {
       "name": "JayRev",
@@ -103,35 +103,35 @@
     },
     {
       "name": "Dina",
-      "matchPts": 9,
+      "matchPts": 12,
       "stagePts": 0,
-      "gf": 6,
+      "gf": 11,
       "ga": 5,
-      "maxPossible": 155
+      "maxPossible": 158
     },
     {
       "name": "Ciaran Slattery",
-      "matchPts": 11,
+      "matchPts": 14,
       "stagePts": 0,
-      "gf": 9,
+      "gf": 14,
       "ga": 2,
-      "maxPossible": 163
+      "maxPossible": 166
     },
     {
       "name": "Kevin B",
-      "matchPts": 10,
+      "matchPts": 13,
       "stagePts": 0,
-      "gf": 8,
+      "gf": 13,
       "ga": 9,
-      "maxPossible": 159
+      "maxPossible": 162
     },
     {
       "name": "Brian Crotty",
-      "matchPts": 14,
+      "matchPts": 17,
       "stagePts": 0,
-      "gf": 19,
+      "gf": 24,
       "ga": 10,
-      "maxPossible": 160
+      "maxPossible": 163
     },
     {
       "name": "Dean Murphy",
@@ -143,35 +143,35 @@
     },
     {
       "name": "Megan Farr",
-      "matchPts": 11,
+      "matchPts": 14,
       "stagePts": 0,
-      "gf": 9,
+      "gf": 14,
       "ga": 6,
-      "maxPossible": 157
+      "maxPossible": 160
     },
     {
       "name": "Gloria O Regan",
-      "matchPts": 12,
+      "matchPts": 15,
       "stagePts": 0,
-      "gf": 18,
+      "gf": 23,
       "ga": 11,
-      "maxPossible": 158
+      "maxPossible": 161
     },
     {
       "name": "Fiona Harte",
-      "matchPts": 10,
+      "matchPts": 13,
       "stagePts": 0,
-      "gf": 10,
+      "gf": 15,
       "ga": 5,
-      "maxPossible": 162
+      "maxPossible": 165
     },
     {
       "name": "Bonbon Athletics",
-      "matchPts": 15,
+      "matchPts": 18,
       "stagePts": 0,
-      "gf": 17,
+      "gf": 22,
       "ga": 10,
-      "maxPossible": 155
+      "maxPossible": 158
     },
     {
       "name": "Dean Walsh",
@@ -183,19 +183,19 @@
     },
     {
       "name": "Pauly",
-      "matchPts": 10,
+      "matchPts": 13,
       "stagePts": 0,
-      "gf": 11,
+      "gf": 16,
       "ga": 7,
-      "maxPossible": 159
+      "maxPossible": 162
     },
     {
       "name": "James Conroy",
-      "matchPts": 12,
+      "matchPts": 15,
       "stagePts": 0,
-      "gf": 12,
+      "gf": 17,
       "ga": 9,
-      "maxPossible": 158
+      "maxPossible": 161
     },
     {
       "name": "Rafael Antunes",
