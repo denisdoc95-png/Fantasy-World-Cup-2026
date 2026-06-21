@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-21T06:00:51Z",
+  "lastUpdated": "2026-06-21T06:15:38Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 105,
+  "actualTotalGoals": 109,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -63,11 +63,11 @@
     },
     {
       "name": "Jack revell",
-      "matchPts": 9,
+      "matchPts": 12,
       "stagePts": 0,
-      "gf": 8,
+      "gf": 12,
       "ga": 7,
-      "maxPossible": 155
+      "maxPossible": 158
     },
     {
       "name": "MurderOnZidanesFloor",
@@ -127,11 +127,11 @@
     },
     {
       "name": "Brian Crotty",
-      "matchPts": 11,
+      "matchPts": 14,
       "stagePts": 0,
-      "gf": 15,
+      "gf": 19,
       "ga": 10,
-      "maxPossible": 160
+      "maxPossible": 163
     },
     {
       "name": "Dean Murphy",
@@ -167,11 +167,11 @@
     },
     {
       "name": "Bonbon Athletics",
-      "matchPts": 12,
+      "matchPts": 15,
       "stagePts": 0,
-      "gf": 13,
+      "gf": 17,
       "ga": 10,
-      "maxPossible": 155
+      "maxPossible": 158
     },
     {
       "name": "Dean Walsh",
@@ -199,11 +199,11 @@
     },
     {
       "name": "Rafael Antunes",
-      "matchPts": 9,
+      "matchPts": 12,
       "stagePts": 0,
-      "gf": 10,
+      "gf": 14,
       "ga": 5,
-      "maxPossible": 161
+      "maxPossible": 164
     },
     {
       "name": "Puds",
