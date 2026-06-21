@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T04:00:55Z",
+  "lastUpdated": "2026-06-21T04:15:34Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 105,
@@ -67,7 +67,7 @@
       "stagePts": 0,
       "gf": 8,
       "ga": 7,
-      "maxPossible": 158
+      "maxPossible": 155
     },
     {
       "name": "MurderOnZidanesFloor",
@@ -131,7 +131,7 @@
       "stagePts": 0,
       "gf": 15,
       "ga": 10,
-      "maxPossible": 163
+      "maxPossible": 160
     },
     {
       "name": "Dean Murphy",
@@ -171,7 +171,7 @@
       "stagePts": 0,
       "gf": 13,
       "ga": 10,
-      "maxPossible": 158
+      "maxPossible": 155
     },
     {
       "name": "Dean Walsh",
@@ -203,7 +203,7 @@
       "stagePts": 0,
       "gf": 10,
       "ga": 5,
-      "maxPossible": 164
+      "maxPossible": 161
     },
     {
       "name": "Puds",
