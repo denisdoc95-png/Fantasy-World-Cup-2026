@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T17:01:02Z",
+  "lastUpdated": "2026-06-22T17:15:41Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 121,
@@ -11,7 +11,7 @@
       "stagePts": 0,
       "gf": 12,
       "ga": 6,
-      "maxPossible": 162
+      "maxPossible": 159
     },
     {
       "name": "Rob Morgan",
@@ -35,7 +35,7 @@
       "stagePts": 0,
       "gf": 18,
       "ga": 9,
-      "maxPossible": 165
+      "maxPossible": 162
     },
     {
       "name": "Stephen Quinn",
@@ -59,7 +59,7 @@
       "stagePts": 0,
       "gf": 14,
       "ga": 6,
-      "maxPossible": 163
+      "maxPossible": 160
     },
     {
       "name": "Jack revell",
@@ -83,7 +83,7 @@
       "stagePts": 0,
       "gf": 13,
       "ga": 8,
-      "maxPossible": 159
+      "maxPossible": 156
     },
     {
       "name": "Conor skehan",
@@ -107,7 +107,7 @@
       "stagePts": 0,
       "gf": 13,
       "ga": 6,
-      "maxPossible": 158
+      "maxPossible": 155
     },
     {
       "name": "Ciaran Slattery",
@@ -115,7 +115,7 @@
       "stagePts": 0,
       "gf": 15,
       "ga": 4,
-      "maxPossible": 164
+      "maxPossible": 161
     },
     {
       "name": "Kevin B",
@@ -139,7 +139,7 @@
       "stagePts": 0,
       "gf": 18,
       "ga": 12,
-      "maxPossible": 164
+      "maxPossible": 161
     },
     {
       "name": "Megan Farr",
@@ -163,7 +163,7 @@
       "stagePts": 0,
       "gf": 14,
       "ga": 5,
-      "maxPossible": 165
+      "maxPossible": 162
     },
     {
       "name": "Bonbon Athletics",
