@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-22T19:00:57Z",
+  "lastUpdated": "2026-06-22T19:15:36Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 121,
+  "actualTotalGoals": 123,
   "eliminatedTeams": [],
   "participants": [
     {
       "name": "Jackoooo",
-      "matchPts": 13,
+      "matchPts": 16,
       "stagePts": 0,
-      "gf": 12,
+      "gf": 14,
       "ga": 6,
-      "maxPossible": 159
+      "maxPossible": 162
     },
     {
       "name": "Rob Morgan",
@@ -31,11 +31,11 @@
     },
     {
       "name": "Cormac Sheehy",
-      "matchPts": 16,
+      "matchPts": 19,
       "stagePts": 0,
-      "gf": 18,
+      "gf": 20,
       "ga": 9,
-      "maxPossible": 162
+      "maxPossible": 165
     },
     {
       "name": "Stephen Quinn",
@@ -55,11 +55,11 @@
     },
     {
       "name": "Kylian McFrappe",
-      "matchPts": 14,
+      "matchPts": 17,
       "stagePts": 0,
-      "gf": 14,
+      "gf": 16,
       "ga": 6,
-      "maxPossible": 160
+      "maxPossible": 163
     },
     {
       "name": "Jack revell",
@@ -79,11 +79,11 @@
     },
     {
       "name": "Cian Collins",
-      "matchPts": 10,
+      "matchPts": 13,
       "stagePts": 0,
-      "gf": 13,
+      "gf": 15,
       "ga": 8,
-      "maxPossible": 156
+      "maxPossible": 159
     },
     {
       "name": "Conor skehan",
@@ -103,19 +103,19 @@
     },
     {
       "name": "Dina",
-      "matchPts": 15,
+      "matchPts": 18,
       "stagePts": 0,
-      "gf": 13,
+      "gf": 15,
       "ga": 6,
-      "maxPossible": 155
+      "maxPossible": 158
     },
     {
       "name": "Ciaran Slattery",
-      "matchPts": 15,
+      "matchPts": 18,
       "stagePts": 0,
-      "gf": 15,
+      "gf": 17,
       "ga": 4,
-      "maxPossible": 161
+      "maxPossible": 164
     },
     {
       "name": "Kevin B",
@@ -135,11 +135,11 @@
     },
     {
       "name": "Dean Murphy",
-      "matchPts": 12,
+      "matchPts": 15,
       "stagePts": 0,
-      "gf": 18,
+      "gf": 20,
       "ga": 12,
-      "maxPossible": 161
+      "maxPossible": 164
     },
     {
       "name": "Megan Farr",
@@ -159,11 +159,11 @@
     },
     {
       "name": "Fiona Harte",
-      "matchPts": 13,
+      "matchPts": 16,
       "stagePts": 0,
-      "gf": 14,
+      "gf": 16,
       "ga": 5,
-      "maxPossible": 162
+      "maxPossible": 165
     },
     {
       "name": "Bonbon Athletics",
