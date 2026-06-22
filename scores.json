@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T01:15:33Z",
+  "lastUpdated": "2026-06-22T01:30:52Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 117,
@@ -107,7 +107,7 @@
       "stagePts": 0,
       "gf": 10,
       "ga": 5,
-      "maxPossible": 158
+      "maxPossible": 155
     },
     {
       "name": "Ciaran Slattery",
@@ -195,7 +195,7 @@
       "stagePts": 0,
       "gf": 16,
       "ga": 9,
-      "maxPossible": 161
+      "maxPossible": 158
     },
     {
       "name": "Rafael Antunes",
