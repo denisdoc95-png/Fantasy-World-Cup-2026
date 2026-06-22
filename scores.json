@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-22T03:00:53Z",
+  "lastUpdated": "2026-06-22T03:15:33Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 117,
+  "actualTotalGoals": 121,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -103,11 +103,11 @@
     },
     {
       "name": "Dina",
-      "matchPts": 12,
+      "matchPts": 15,
       "stagePts": 0,
-      "gf": 10,
-      "ga": 5,
-      "maxPossible": 155
+      "gf": 13,
+      "ga": 6,
+      "maxPossible": 158
     },
     {
       "name": "Ciaran Slattery",
@@ -191,11 +191,11 @@
     },
     {
       "name": "James Conroy",
-      "matchPts": 15,
+      "matchPts": 18,
       "stagePts": 0,
-      "gf": 16,
-      "ga": 9,
-      "maxPossible": 158
+      "gf": 19,
+      "ga": 10,
+      "maxPossible": 161
     },
     {
       "name": "Rafael Antunes",
