@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-22T00:00:57Z",
+  "lastUpdated": "2026-06-22T00:15:34Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 113,
+  "actualTotalGoals": 117,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -15,11 +15,11 @@
     },
     {
       "name": "Rob Morgan",
-      "matchPts": 11,
+      "matchPts": 12,
       "stagePts": 0,
-      "gf": 13,
-      "ga": 6,
-      "maxPossible": 160
+      "gf": 15,
+      "ga": 8,
+      "maxPossible": 161
     },
     {
       "name": "Michael Q",
@@ -111,11 +111,11 @@
     },
     {
       "name": "Ciaran Slattery",
-      "matchPts": 14,
+      "matchPts": 15,
       "stagePts": 0,
-      "gf": 13,
-      "ga": 2,
-      "maxPossible": 163
+      "gf": 15,
+      "ga": 4,
+      "maxPossible": 164
     },
     {
       "name": "Kevin B",
@@ -151,11 +151,11 @@
     },
     {
       "name": "Gloria O Regan",
-      "matchPts": 15,
+      "matchPts": 16,
       "stagePts": 0,
-      "gf": 22,
-      "ga": 11,
-      "maxPossible": 158
+      "gf": 24,
+      "ga": 13,
+      "maxPossible": 159
     },
     {
       "name": "Fiona Harte",
@@ -175,11 +175,11 @@
     },
     {
       "name": "Dean Walsh",
-      "matchPts": 14,
+      "matchPts": 15,
       "stagePts": 0,
-      "gf": 16,
-      "ga": 10,
-      "maxPossible": 157
+      "gf": 18,
+      "ga": 12,
+      "maxPossible": 158
     },
     {
       "name": "Pauly",
@@ -199,19 +199,19 @@
     },
     {
       "name": "Rafael Antunes",
-      "matchPts": 12,
+      "matchPts": 13,
       "stagePts": 0,
-      "gf": 14,
-      "ga": 5,
-      "maxPossible": 161
+      "gf": 16,
+      "ga": 7,
+      "maxPossible": 162
     },
     {
       "name": "Puds",
-      "matchPts": 12,
+      "matchPts": 13,
       "stagePts": 0,
-      "gf": 14,
-      "ga": 11,
-      "maxPossible": 155
+      "gf": 16,
+      "ga": 13,
+      "maxPossible": 156
     }
   ]
 }
