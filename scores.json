@@ -1,81 +1,81 @@
 {
-  "lastUpdated": "2026-06-23T00:45:36Z",
+  "lastUpdated": "2026-06-23T01:01:02Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 123,
+  "actualTotalGoals": 126,
   "eliminatedTeams": [],
   "participants": [
     {
       "name": "Jackoooo",
-      "matchPts": 16,
+      "matchPts": 19,
       "stagePts": 0,
-      "gf": 14,
+      "gf": 17,
       "ga": 6,
-      "maxPossible": 156
+      "maxPossible": 159
     },
     {
       "name": "Rob Morgan",
-      "matchPts": 12,
+      "matchPts": 15,
       "stagePts": 0,
-      "gf": 15,
+      "gf": 18,
       "ga": 8,
-      "maxPossible": 155
+      "maxPossible": 158
     },
     {
       "name": "Michael Q",
-      "matchPts": 19,
+      "matchPts": 22,
       "stagePts": 0,
-      "gf": 25,
+      "gf": 28,
       "ga": 13,
-      "maxPossible": 159
+      "maxPossible": 162
     },
     {
       "name": "Cormac Sheehy",
-      "matchPts": 19,
+      "matchPts": 22,
       "stagePts": 0,
-      "gf": 20,
+      "gf": 23,
       "ga": 9,
-      "maxPossible": 159
+      "maxPossible": 162
     },
     {
       "name": "Stephen Quinn",
-      "matchPts": 12,
+      "matchPts": 15,
       "stagePts": 0,
-      "gf": 15,
+      "gf": 18,
       "ga": 13,
-      "maxPossible": 155
+      "maxPossible": 158
     },
     {
       "name": "Denis OC",
-      "matchPts": 17,
+      "matchPts": 20,
       "stagePts": 0,
-      "gf": 19,
+      "gf": 22,
       "ga": 9,
-      "maxPossible": 157
+      "maxPossible": 160
     },
     {
       "name": "Kylian McFrappe",
-      "matchPts": 17,
+      "matchPts": 20,
       "stagePts": 0,
-      "gf": 16,
+      "gf": 19,
       "ga": 6,
-      "maxPossible": 157
+      "maxPossible": 160
     },
     {
       "name": "Jack revell",
-      "matchPts": 15,
+      "matchPts": 18,
       "stagePts": 0,
-      "gf": 16,
+      "gf": 19,
       "ga": 7,
-      "maxPossible": 155
+      "maxPossible": 158
     },
     {
       "name": "MurderOnZidanesFloor",
-      "matchPts": 10,
+      "matchPts": 13,
       "stagePts": 0,
-      "gf": 13,
+      "gf": 16,
       "ga": 9,
-      "maxPossible": 153
+      "maxPossible": 156
     },
     {
       "name": "Cian Collins",
@@ -87,11 +87,11 @@
     },
     {
       "name": "Conor skehan",
-      "matchPts": 13,
+      "matchPts": 16,
       "stagePts": 0,
-      "gf": 12,
+      "gf": 15,
       "ga": 7,
-      "maxPossible": 156
+      "maxPossible": 159
     },
     {
       "name": "JayRev",
@@ -119,35 +119,35 @@
     },
     {
       "name": "Kevin B",
-      "matchPts": 13,
+      "matchPts": 16,
       "stagePts": 0,
-      "gf": 12,
+      "gf": 15,
       "ga": 9,
-      "maxPossible": 159
+      "maxPossible": 162
     },
     {
       "name": "Brian Crotty",
-      "matchPts": 17,
+      "matchPts": 20,
       "stagePts": 0,
-      "gf": 23,
+      "gf": 26,
       "ga": 10,
-      "maxPossible": 157
+      "maxPossible": 160
     },
     {
       "name": "Dean Murphy",
-      "matchPts": 15,
+      "matchPts": 18,
       "stagePts": 0,
-      "gf": 20,
+      "gf": 23,
       "ga": 12,
-      "maxPossible": 158
+      "maxPossible": 161
     },
     {
       "name": "Megan Farr",
-      "matchPts": 14,
+      "matchPts": 17,
       "stagePts": 0,
-      "gf": 13,
+      "gf": 16,
       "ga": 6,
-      "maxPossible": 154
+      "maxPossible": 157
     },
     {
       "name": "Gloria O Regan",
@@ -175,11 +175,11 @@
     },
     {
       "name": "Dean Walsh",
-      "matchPts": 15,
+      "matchPts": 18,
       "stagePts": 0,
-      "gf": 18,
+      "gf": 21,
       "ga": 12,
-      "maxPossible": 155
+      "maxPossible": 158
     },
     {
       "name": "Pauly",
@@ -191,19 +191,19 @@
     },
     {
       "name": "James Conroy",
-      "matchPts": 18,
+      "matchPts": 21,
       "stagePts": 0,
-      "gf": 19,
+      "gf": 22,
       "ga": 10,
-      "maxPossible": 158
+      "maxPossible": 161
     },
     {
       "name": "Rafael Antunes",
-      "matchPts": 13,
+      "matchPts": 16,
       "stagePts": 0,
-      "gf": 16,
+      "gf": 19,
       "ga": 7,
-      "maxPossible": 156
+      "maxPossible": 159
     },
     {
       "name": "Puds",
