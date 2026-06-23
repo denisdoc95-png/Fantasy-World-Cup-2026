@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T22:01:03Z",
+  "lastUpdated": "2026-06-23T22:13:22Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 139,
@@ -39,11 +39,11 @@
     },
     {
       "name": "Stephen Quinn",
-      "matchPts": 15,
+      "matchPts": 16,
       "stagePts": 0,
       "gf": 20,
       "ga": 16,
-      "maxPossible": 155
+      "maxPossible": 156
     },
     {
       "name": "Denis OC",
@@ -95,11 +95,11 @@
     },
     {
       "name": "JayRev",
-      "matchPts": 13,
+      "matchPts": 14,
       "stagePts": 0,
       "gf": 16,
       "ga": 14,
-      "maxPossible": 156
+      "maxPossible": 157
     },
     {
       "name": "Dina",
@@ -111,19 +111,19 @@
     },
     {
       "name": "Ciaran Slattery",
-      "matchPts": 21,
+      "matchPts": 22,
       "stagePts": 0,
       "gf": 20,
       "ga": 6,
-      "maxPossible": 161
+      "maxPossible": 162
     },
     {
       "name": "Kevin B",
-      "matchPts": 16,
+      "matchPts": 17,
       "stagePts": 0,
       "gf": 15,
       "ga": 9,
-      "maxPossible": 159
+      "maxPossible": 160
     },
     {
       "name": "Brian Crotty",
@@ -159,11 +159,11 @@
     },
     {
       "name": "Fiona Harte",
-      "matchPts": 19,
+      "matchPts": 20,
       "stagePts": 0,
       "gf": 19,
       "ga": 7,
-      "maxPossible": 162
+      "maxPossible": 163
     },
     {
       "name": "Bonbon Athletics",
@@ -183,11 +183,11 @@
     },
     {
       "name": "Pauly",
-      "matchPts": 16,
+      "matchPts": 17,
       "stagePts": 0,
       "gf": 18,
       "ga": 9,
-      "maxPossible": 159
+      "maxPossible": 160
     },
     {
       "name": "James Conroy",
