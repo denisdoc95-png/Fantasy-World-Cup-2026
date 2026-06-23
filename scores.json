@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T17:00:57Z",
+  "lastUpdated": "2026-06-23T17:15:42Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 134,
@@ -203,7 +203,7 @@
       "stagePts": 0,
       "gf": 22,
       "ga": 9,
-      "maxPossible": 162
+      "maxPossible": 159
     },
     {
       "name": "Puds",
@@ -211,7 +211,7 @@
       "stagePts": 0,
       "gf": 16,
       "ga": 13,
-      "maxPossible": 156
+      "maxPossible": 153
     }
   ]
 }
