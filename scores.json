@@ -1,9 +1,12 @@
 {
-  "lastUpdated": "2026-06-24T20:55:54Z",
+  "lastUpdated": "2026-06-24T21:00:57Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 141,
-  "eliminatedTeams": [],
+  "actualTotalGoals": 144,
+  "eliminatedTeams": [
+    "Canada",
+    "Switzerland"
+  ],
   "participants": [
     {
       "name": "Jackoooo",
@@ -23,11 +26,11 @@
     },
     {
       "name": "Michael Q",
-      "matchPts": 22,
+      "matchPts": 25,
       "stagePts": 3,
-      "gf": 28,
-      "ga": 13,
-      "maxPossible": 162
+      "gf": 30,
+      "ga": 14,
+      "maxPossible": 165
     },
     {
       "name": "Cormac Sheehy",
