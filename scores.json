@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T15:07:34Z",
+  "lastUpdated": "2026-06-24T15:15:39Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 141,
@@ -8,10 +8,10 @@
     {
       "name": "Jackoooo",
       "matchPts": 22,
-      "stagePts": 0,
+      "stagePts": 3,
       "gf": 20,
       "ga": 8,
-      "maxPossible": 162
+      "maxPossible": 165
     },
     {
       "name": "Rob Morgan",
@@ -24,18 +24,18 @@
     {
       "name": "Michael Q",
       "matchPts": 22,
-      "stagePts": 0,
+      "stagePts": 3,
       "gf": 28,
       "ga": 13,
-      "maxPossible": 162
+      "maxPossible": 165
     },
     {
       "name": "Cormac Sheehy",
       "matchPts": 25,
-      "stagePts": 0,
+      "stagePts": 3,
       "gf": 26,
       "ga": 11,
-      "maxPossible": 165
+      "maxPossible": 168
     },
     {
       "name": "Stephen Quinn",
@@ -56,10 +56,10 @@
     {
       "name": "Kylian McFrappe",
       "matchPts": 23,
-      "stagePts": 0,
+      "stagePts": 3,
       "gf": 22,
       "ga": 8,
-      "maxPossible": 163
+      "maxPossible": 166
     },
     {
       "name": "Jack revell",
@@ -80,10 +80,10 @@
     {
       "name": "Cian Collins",
       "matchPts": 19,
-      "stagePts": 0,
+      "stagePts": 3,
       "gf": 19,
       "ga": 10,
-      "maxPossible": 159
+      "maxPossible": 162
     },
     {
       "name": "Conor skehan",
@@ -96,26 +96,26 @@
     {
       "name": "JayRev",
       "matchPts": 17,
-      "stagePts": 0,
+      "stagePts": 3,
       "gf": 17,
       "ga": 14,
-      "maxPossible": 157
+      "maxPossible": 160
     },
     {
       "name": "Dina",
       "matchPts": 18,
-      "stagePts": 0,
+      "stagePts": 3,
       "gf": 15,
       "ga": 6,
-      "maxPossible": 158
+      "maxPossible": 161
     },
     {
       "name": "Ciaran Slattery",
       "matchPts": 22,
-      "stagePts": 0,
+      "stagePts": 3,
       "gf": 20,
       "ga": 6,
-      "maxPossible": 162
+      "maxPossible": 165
     },
     {
       "name": "Kevin B",
@@ -136,10 +136,10 @@
     {
       "name": "Dean Murphy",
       "matchPts": 24,
-      "stagePts": 0,
+      "stagePts": 3,
       "gf": 27,
       "ga": 14,
-      "maxPossible": 164
+      "maxPossible": 167
     },
     {
       "name": "Megan Farr",
@@ -160,10 +160,10 @@
     {
       "name": "Fiona Harte",
       "matchPts": 23,
-      "stagePts": 0,
+      "stagePts": 3,
       "gf": 20,
       "ga": 7,
-      "maxPossible": 163
+      "maxPossible": 166
     },
     {
       "name": "Bonbon Athletics",
@@ -176,10 +176,10 @@
     {
       "name": "Dean Walsh",
       "matchPts": 18,
-      "stagePts": 0,
+      "stagePts": 3,
       "gf": 21,
       "ga": 12,
-      "maxPossible": 158
+      "maxPossible": 161
     },
     {
       "name": "Pauly",
