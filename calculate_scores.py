@@ -18,6 +18,7 @@ import os
 import json
 import requests
 from pathlib import Path
+from collections import defaultdict
 from datetime import datetime, timezone
 
 # ── API CONFIG ────────────────────────────────────────────────────────────────
@@ -294,29 +295,77 @@ def get_total_goals(matches: list) -> int:
     return total
 
 
-def get_eliminated_teams(matches: list) -> list:
+def get_eliminated_teams(matches: list, confirmed: dict) -> list:
     """
-    Returns a sorted list of team names that are eliminated —
-    i.e. they have played at least one match but have NO remaining
-    scheduled or in-play matches.
-    """
-    played   = set()
-    active   = set()
+    Returns teams that are definitively eliminated.
 
-    for m in matches:
-        status = m.get("status", "")
+    Two sources:
+      1. Lost a confirmed knockout match (LAST_32, LAST_16, QF, SF, Final)
+      2. Finished 4th in their group (all 6 group matches confirmed).
+         4th place is always eliminated in WC 2026 format.
+    """
+    KNOCKOUT_STAGES = {"LAST_32", "LAST_16", "QUARTER_FINALS",
+                       "SEMI_FINALS", "FINAL", "THIRD_PLACE"}
+    eliminated = set()
+
+    # ── Rule 1: Lost a confirmed knockout match ───────────────────────
+    for m in confirmed.values():
+        if m.get("stage", "") not in KNOCKOUT_STAGES:
+            continue
+        score  = m.get("score", {})
+        ft     = score.get("fullTime", {})
+        hg, ag = ft.get("home"), ft.get("away")
+        winner = score.get("winner")
         home   = normalise(m["homeTeam"]["name"])
         away   = normalise(m["awayTeam"]["name"])
+        if hg is None or ag is None:
+            continue
+        if winner == "HOME_TEAM":
+            eliminated.add(away)
+        elif winner == "AWAY_TEAM":
+            eliminated.add(home)
 
-        if status == "FINISHED":
-            played.add(home)
-            played.add(away)
-        elif status in ("SCHEDULED", "TIMED", "IN_PLAY", "PAUSED"):
-            active.add(home)
-            active.add(away)
+    # ── Rule 2: 4th place in completed groups ─────────────────────────
+    groups = defaultdict(list)
+    for m in confirmed.values():
+        if m.get("stage") == "GROUP_STAGE" and m.get("group"):
+            groups[m["group"]].append(m)
 
-    # Eliminated = played at least one match AND not scheduled for another
-    eliminated = played - active
+    for group_name, group_matches in groups.items():
+        if len(group_matches) < 6:
+            continue  # group not yet complete
+
+        standings = defaultdict(lambda: {"pts": 0, "gd": 0, "gf": 0})
+        for m in group_matches:
+            h  = normalise(m["homeTeam"]["name"])
+            a  = normalise(m["awayTeam"]["name"])
+            ft = m["score"]["fullTime"]
+            hg, ag = ft["home"], ft["away"]
+            if hg is None or ag is None:
+                continue
+            standings[h]["gf"] += hg
+            standings[h]["gd"] += hg - ag
+            standings[a]["gf"] += ag
+            standings[a]["gd"] += ag - hg
+            w = m["score"].get("winner")
+            if w == "HOME_TEAM":
+                standings[h]["pts"] += 3
+            elif w == "AWAY_TEAM":
+                standings[a]["pts"] += 3
+            else:
+                standings[h]["pts"] += 1
+                standings[a]["pts"] += 1
+
+        ranked = sorted(standings.keys(),
+                        key=lambda t: (standings[t]["pts"],
+                                       standings[t]["gd"],
+                                       standings[t]["gf"]),
+                        reverse=True)
+
+        # 4th place always eliminated
+        if len(ranked) >= 4:
+            eliminated.add(ranked[3])
+
     return sorted(eliminated)
 
 
@@ -509,7 +558,7 @@ def main():
     print(f"   Winner: {actual_winner or 'TBD'} · Total goals: {actual_goals}")
 
     print("🚫 Detecting eliminated teams...")
-    eliminated = get_eliminated_teams(matches)
+    eliminated = get_eliminated_teams(matches, confirmed)
     print(f"   Eliminated ({len(eliminated)}): {', '.join(eliminated) if eliminated else 'none yet'}")
 
     print("🧮 Calculating participant scores...")
