@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T01:00:57Z",
+  "lastUpdated": "2026-06-25T01:15:33Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 157,
@@ -68,7 +68,7 @@
       "stagePts": 0,
       "gf": 26,
       "ga": 10,
-      "maxPossible": 163
+      "maxPossible": 160
     },
     {
       "name": "Jack revell",
@@ -76,7 +76,7 @@
       "stagePts": 0,
       "gf": 19,
       "ga": 10,
-      "maxPossible": 155
+      "maxPossible": 152
     },
     {
       "name": "MurderOnZidanesFloor",
@@ -108,7 +108,7 @@
       "stagePts": 0,
       "gf": 17,
       "ga": 14,
-      "maxPossible": 157
+      "maxPossible": 154
     },
     {
       "name": "Dina",
