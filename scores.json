@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T23:00:52Z",
+  "lastUpdated": "2026-06-25T23:15:33Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 166,
@@ -32,7 +32,7 @@
       "stagePts": 0,
       "gf": 33,
       "ga": 16,
-      "maxPossible": 159
+      "maxPossible": 156
     },
     {
       "name": "Cormac Sheehy",
@@ -40,7 +40,7 @@
       "stagePts": 0,
       "gf": 30,
       "ga": 13,
-      "maxPossible": 165
+      "maxPossible": 162
     },
     {
       "name": "Stephen Quinn",
@@ -48,7 +48,7 @@
       "stagePts": 0,
       "gf": 20,
       "ga": 19,
-      "maxPossible": 153
+      "maxPossible": 150
     },
     {
       "name": "Denis OC",
@@ -56,7 +56,7 @@
       "stagePts": 0,
       "gf": 29,
       "ga": 13,
-      "maxPossible": 163
+      "maxPossible": 160
     },
     {
       "name": "Kylian McFrappe",
@@ -72,7 +72,7 @@
       "stagePts": 0,
       "gf": 19,
       "ga": 13,
-      "maxPossible": 152
+      "maxPossible": 149
     },
     {
       "name": "MurderOnZidanesFloor",
@@ -136,7 +136,7 @@
       "stagePts": 0,
       "gf": 29,
       "ga": 12,
-      "maxPossible": 163
+      "maxPossible": 157
     },
     {
       "name": "Dean Murphy",
@@ -144,7 +144,7 @@
       "stagePts": 0,
       "gf": 27,
       "ga": 14,
-      "maxPossible": 164
+      "maxPossible": 161
     },
     {
       "name": "Megan Farr",
@@ -160,7 +160,7 @@
       "stagePts": 0,
       "gf": 27,
       "ga": 15,
-      "maxPossible": 159
+      "maxPossible": 153
     },
     {
       "name": "Fiona Harte",
@@ -176,7 +176,7 @@
       "stagePts": 0,
       "gf": 24,
       "ga": 13,
-      "maxPossible": 155
+      "maxPossible": 149
     },
     {
       "name": "Dean Walsh",
@@ -200,7 +200,7 @@
       "stagePts": 0,
       "gf": 26,
       "ga": 12,
-      "maxPossible": 161
+      "maxPossible": 158
     },
     {
       "name": "Rafael Antunes",
@@ -208,7 +208,7 @@
       "stagePts": 0,
       "gf": 27,
       "ga": 9,
-      "maxPossible": 162
+      "maxPossible": 159
     },
     {
       "name": "Puds",
@@ -216,7 +216,7 @@
       "stagePts": 0,
       "gf": 26,
       "ga": 13,
-      "maxPossible": 156
+      "maxPossible": 153
     }
   ]
 }
