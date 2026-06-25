@@ -256,15 +256,20 @@ def build_team_stats(matches: list, confirmed: dict) -> dict:
     for m in confirmed.values():
         apply_match(m)
 
-    # ── Phase 2: Add stage appearances from full match list ──────────────────
-    # Only ADD stages — confirmed scores already applied above.
-    # This captures teams appearing in future/upcoming fixtures.
-    confirmed_ids = set(confirmed.keys())
+    # ── Phase 2: Add GROUP_STAGE appearances from full API match list ────────────
+    # Only GROUP_STAGE — knockout stage appearances ONLY come from confirmed
+    # (Phase 1). This prevents premature stage bonuses for teams that are
+    # mathematically through but whose group stage isn't fully complete yet.
     for m in matches:
-        mid   = str(m.get("id", ""))
         stage = m.get("stage", "")
-        home  = normalise(m["homeTeam"]["name"])
-        away  = normalise(m["awayTeam"]["name"])
+        if stage != "GROUP_STAGE":
+            continue
+        h = m["homeTeam"].get("name")
+        a = m["awayTeam"].get("name")
+        if not h or not a:
+            continue
+        home = normalise(h)
+        away = normalise(a)
         ensure(home)
         ensure(away)
         stats[home]["stages"].add(stage)
