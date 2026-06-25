@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T20:15:31Z",
+  "lastUpdated": "2026-06-25T20:30:44Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 161,
@@ -15,7 +15,7 @@
       "stagePts": 0,
       "gf": 24,
       "ga": 10,
-      "maxPossible": 165
+      "maxPossible": 162
     },
     {
       "name": "Rob Morgan",
@@ -31,7 +31,7 @@
       "stagePts": 0,
       "gf": 30,
       "ga": 14,
-      "maxPossible": 159
+      "maxPossible": 156
     },
     {
       "name": "Cormac Sheehy",
@@ -39,7 +39,7 @@
       "stagePts": 0,
       "gf": 30,
       "ga": 13,
-      "maxPossible": 168
+      "maxPossible": 165
     },
     {
       "name": "Stephen Quinn",
@@ -63,7 +63,7 @@
       "stagePts": 0,
       "gf": 26,
       "ga": 13,
-      "maxPossible": 163
+      "maxPossible": 160
     },
     {
       "name": "Jack revell",
@@ -87,7 +87,7 @@
       "stagePts": 0,
       "gf": 19,
       "ga": 10,
-      "maxPossible": 162
+      "maxPossible": 159
     },
     {
       "name": "Conor skehan",
@@ -103,7 +103,7 @@
       "stagePts": 0,
       "gf": 17,
       "ga": 17,
-      "maxPossible": 157
+      "maxPossible": 154
     },
     {
       "name": "Dina",
@@ -111,7 +111,7 @@
       "stagePts": 0,
       "gf": 19,
       "ga": 8,
-      "maxPossible": 161
+      "maxPossible": 158
     },
     {
       "name": "Ciaran Slattery",
@@ -119,7 +119,7 @@
       "stagePts": 0,
       "gf": 20,
       "ga": 6,
-      "maxPossible": 165
+      "maxPossible": 162
     },
     {
       "name": "Kevin B",
@@ -143,7 +143,7 @@
       "stagePts": 0,
       "gf": 27,
       "ga": 14,
-      "maxPossible": 167
+      "maxPossible": 164
     },
     {
       "name": "Megan Farr",
@@ -167,7 +167,7 @@
       "stagePts": 0,
       "gf": 20,
       "ga": 7,
-      "maxPossible": 166
+      "maxPossible": 163
     },
     {
       "name": "Bonbon Athletics",
@@ -183,7 +183,7 @@
       "stagePts": 0,
       "gf": 24,
       "ga": 16,
-      "maxPossible": 155
+      "maxPossible": 152
     },
     {
       "name": "Pauly",
