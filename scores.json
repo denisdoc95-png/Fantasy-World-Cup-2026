@@ -1,16 +1,19 @@
 {
-  "lastUpdated": "2026-06-25T03:00:54Z",
+  "lastUpdated": "2026-06-25T03:15:39Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 157,
+  "actualTotalGoals": 161,
   "eliminatedTeams": [
     "Bosnia and Herzegovina",
     "Brazil",
     "Canada",
+    "Czech Republic",
     "Haiti",
     "Morocco",
     "Qatar",
     "Scotland",
+    "South Africa",
+    "South Korea",
     "Switzerland"
   ],
   "participants": [
@@ -67,7 +70,7 @@
       "matchPts": 26,
       "stagePts": 3,
       "gf": 26,
-      "ga": 10,
+      "ga": 13,
       "maxPossible": 163
     },
     {
@@ -75,7 +78,7 @@
       "matchPts": 18,
       "stagePts": 0,
       "gf": 19,
-      "ga": 10,
+      "ga": 13,
       "maxPossible": 152
     },
     {
@@ -107,7 +110,7 @@
       "matchPts": 17,
       "stagePts": 3,
       "gf": 17,
-      "ga": 14,
+      "ga": 17,
       "maxPossible": 157
     },
     {
