@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-26T00:45:31Z",
+  "lastUpdated": "2026-06-26T01:00:54Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 166,
+  "actualTotalGoals": 170,
   "eliminatedTeams": [
     "Cura\u00e7ao",
     "Czech Republic",
@@ -156,11 +156,11 @@
     },
     {
       "name": "Gloria O Regan",
-      "matchPts": 19,
+      "matchPts": 22,
       "stagePts": 0,
-      "gf": 27,
-      "ga": 15,
-      "maxPossible": 153
+      "gf": 30,
+      "ga": 16,
+      "maxPossible": 156
     },
     {
       "name": "Fiona Harte",
