@@ -1,12 +1,13 @@
 {
-  "lastUpdated": "2026-06-26T21:05:47Z",
+  "lastUpdated": "2026-06-26T21:15:35Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 182,
+  "actualTotalGoals": 187,
   "eliminatedTeams": [
     "Cura\u00e7ao",
     "Czech Republic",
     "Haiti",
+    "Iraq",
     "Qatar",
     "Tunisia",
     "Turkey"
@@ -18,7 +19,7 @@
       "stagePts": 0,
       "gf": 32,
       "ga": 17,
-      "maxPossible": 159
+      "maxPossible": 165
     },
     {
       "name": "Rob Morgan",
@@ -34,7 +35,7 @@
       "stagePts": 0,
       "gf": 38,
       "ga": 18,
-      "maxPossible": 157
+      "maxPossible": 163
     },
     {
       "name": "Cormac Sheehy",
@@ -42,15 +43,15 @@
       "stagePts": 0,
       "gf": 36,
       "ga": 19,
-      "maxPossible": 160
+      "maxPossible": 166
     },
     {
       "name": "Stephen Quinn",
-      "matchPts": 20,
+      "matchPts": 23,
       "stagePts": 0,
-      "gf": 25,
+      "gf": 30,
       "ga": 21,
-      "maxPossible": 148
+      "maxPossible": 151
     },
     {
       "name": "Denis OC",
@@ -58,7 +59,7 @@
       "stagePts": 0,
       "gf": 35,
       "ga": 19,
-      "maxPossible": 158
+      "maxPossible": 161
     },
     {
       "name": "Kylian McFrappe",
@@ -66,7 +67,7 @@
       "stagePts": 0,
       "gf": 31,
       "ga": 18,
-      "maxPossible": 157
+      "maxPossible": 163
     },
     {
       "name": "Jack revell",
@@ -74,7 +75,7 @@
       "stagePts": 0,
       "gf": 24,
       "ga": 15,
-      "maxPossible": 150
+      "maxPossible": 153
     },
     {
       "name": "MurderOnZidanesFloor",
@@ -90,7 +91,7 @@
       "stagePts": 0,
       "gf": 23,
       "ga": 16,
-      "maxPossible": 156
+      "maxPossible": 159
     },
     {
       "name": "Conor skehan",
@@ -106,7 +107,7 @@
       "stagePts": 0,
       "gf": 19,
       "ga": 20,
-      "maxPossible": 149
+      "maxPossible": 152
     },
     {
       "name": "Dina",
@@ -114,7 +115,7 @@
       "stagePts": 0,
       "gf": 22,
       "ga": 10,
-      "maxPossible": 158
+      "maxPossible": 164
     },
     {
       "name": "Ciaran Slattery",
@@ -122,7 +123,7 @@
       "stagePts": 0,
       "gf": 21,
       "ga": 10,
-      "maxPossible": 159
+      "maxPossible": 162
     },
     {
       "name": "Kevin B",
@@ -138,7 +139,7 @@
       "stagePts": 0,
       "gf": 36,
       "ga": 19,
-      "maxPossible": 156
+      "maxPossible": 159
     },
     {
       "name": "Dean Murphy",
@@ -146,7 +147,7 @@
       "stagePts": 0,
       "gf": 33,
       "ga": 20,
-      "maxPossible": 159
+      "maxPossible": 162
     },
     {
       "name": "Megan Farr",
@@ -154,7 +155,7 @@
       "stagePts": 0,
       "gf": 31,
       "ga": 17,
-      "maxPossible": 157
+      "maxPossible": 160
     },
     {
       "name": "Gloria O Regan",
@@ -162,7 +163,7 @@
       "stagePts": 0,
       "gf": 32,
       "ga": 21,
-      "maxPossible": 154
+      "maxPossible": 157
     },
     {
       "name": "Fiona Harte",
@@ -170,7 +171,7 @@
       "stagePts": 0,
       "gf": 21,
       "ga": 11,
-      "maxPossible": 160
+      "maxPossible": 163
     },
     {
       "name": "Bonbon Athletics",
@@ -178,7 +179,7 @@
       "stagePts": 0,
       "gf": 26,
       "ga": 15,
-      "maxPossible": 151
+      "maxPossible": 157
     },
     {
       "name": "Dean Walsh",
@@ -186,7 +187,7 @@
       "stagePts": 0,
       "gf": 29,
       "ga": 19,
-      "maxPossible": 152
+      "maxPossible": 158
     },
     {
       "name": "Pauly",
@@ -202,7 +203,7 @@
       "stagePts": 0,
       "gf": 31,
       "ga": 14,
-      "maxPossible": 159
+      "maxPossible": 162
     },
     {
       "name": "Rafael Antunes",
@@ -210,7 +211,7 @@
       "stagePts": 0,
       "gf": 33,
       "ga": 15,
-      "maxPossible": 157
+      "maxPossible": 160
     },
     {
       "name": "Puds",
@@ -218,7 +219,7 @@
       "stagePts": 0,
       "gf": 27,
       "ga": 14,
-      "maxPossible": 154
+      "maxPossible": 157
     }
   ]
 }
