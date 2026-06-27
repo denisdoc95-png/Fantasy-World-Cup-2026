@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T10:00:56Z",
+  "lastUpdated": "2026-06-27T10:15:36Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 197,
@@ -37,7 +37,7 @@
       "stagePts": 0,
       "gf": 38,
       "ga": 18,
-      "maxPossible": 163
+      "maxPossible": 166
     },
     {
       "name": "Cormac Sheehy",
@@ -101,7 +101,7 @@
       "stagePts": 0,
       "gf": 26,
       "ga": 10,
-      "maxPossible": 159
+      "maxPossible": 162
     },
     {
       "name": "JayRev",
@@ -221,7 +221,7 @@
       "stagePts": 0,
       "gf": 27,
       "ga": 15,
-      "maxPossible": 154
+      "maxPossible": 157
     }
   ]
 }
