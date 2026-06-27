@@ -1,13 +1,14 @@
 {
-  "lastUpdated": "2026-06-27T05:00:56Z",
+  "lastUpdated": "2026-06-27T05:15:38Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 188,
+  "actualTotalGoals": 197,
   "eliminatedTeams": [
     "Cura\u00e7ao",
     "Czech Republic",
     "Haiti",
     "Iraq",
+    "New Zealand",
     "Qatar",
     "Saudi Arabia",
     "Tunisia",
@@ -114,8 +115,8 @@
       "name": "Dina",
       "matchPts": 27,
       "stagePts": 0,
-      "gf": 23,
-      "ga": 10,
+      "gf": 24,
+      "ga": 12,
       "maxPossible": 161
     },
     {
@@ -202,8 +203,8 @@
       "name": "James Conroy",
       "matchPts": 31,
       "stagePts": 0,
-      "gf": 32,
-      "ga": 14,
+      "gf": 33,
+      "ga": 16,
       "maxPossible": 159
     },
     {
