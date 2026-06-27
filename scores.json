@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-27T22:45:36Z",
+  "lastUpdated": "2026-06-27T23:00:57Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 197,
+  "actualTotalGoals": 199,
   "eliminatedTeams": [
     "Cura\u00e7ao",
     "Czech Republic",
@@ -49,11 +49,11 @@
     },
     {
       "name": "Stephen Quinn",
-      "matchPts": 23,
+      "matchPts": 26,
       "stagePts": 0,
-      "gf": 30,
+      "gf": 32,
       "ga": 21,
-      "maxPossible": 148
+      "maxPossible": 151
     },
     {
       "name": "Denis OC",
@@ -105,11 +105,11 @@
     },
     {
       "name": "JayRev",
-      "matchPts": 18,
+      "matchPts": 21,
       "stagePts": 0,
-      "gf": 19,
+      "gf": 21,
       "ga": 20,
-      "maxPossible": 146
+      "maxPossible": 149
     },
     {
       "name": "Dina",
@@ -193,11 +193,11 @@
     },
     {
       "name": "Pauly",
-      "matchPts": 26,
+      "matchPts": 29,
       "stagePts": 0,
-      "gf": 24,
+      "gf": 26,
       "ga": 15,
-      "maxPossible": 154
+      "maxPossible": 157
     },
     {
       "name": "James Conroy",
