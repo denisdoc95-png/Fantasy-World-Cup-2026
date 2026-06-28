@@ -1,13 +1,14 @@
 {
-  "lastUpdated": "2026-06-28T04:00:57Z",
-  "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
+  "lastUpdated": "2026-06-28T04:15:38Z",
+  "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 206,
+  "actualTotalGoals": 216,
   "eliminatedTeams": [
     "Cura\u00e7ao",
     "Czech Republic",
     "Haiti",
     "Iraq",
+    "Jordan",
     "New Zealand",
     "Panama",
     "Qatar",
@@ -19,11 +20,11 @@
   "participants": [
     {
       "name": "Jackoooo",
-      "matchPts": 31,
+      "matchPts": 34,
       "stagePts": 0,
-      "gf": 32,
-      "ga": 17,
-      "maxPossible": 162
+      "gf": 35,
+      "ga": 18,
+      "maxPossible": 159
     },
     {
       "name": "Rob Morgan",
@@ -39,15 +40,15 @@
       "stagePts": 0,
       "gf": 38,
       "ga": 18,
-      "maxPossible": 166
+      "maxPossible": 157
     },
     {
       "name": "Cormac Sheehy",
-      "matchPts": 32,
+      "matchPts": 35,
       "stagePts": 0,
-      "gf": 36,
-      "ga": 19,
-      "maxPossible": 163
+      "gf": 39,
+      "ga": 20,
+      "maxPossible": 160
     },
     {
       "name": "Stephen Quinn",
@@ -63,15 +64,15 @@
       "stagePts": 0,
       "gf": 36,
       "ga": 19,
-      "maxPossible": 161
+      "maxPossible": 158
     },
     {
       "name": "Kylian McFrappe",
-      "matchPts": 29,
+      "matchPts": 32,
       "stagePts": 0,
-      "gf": 31,
-      "ga": 18,
-      "maxPossible": 160
+      "gf": 34,
+      "ga": 19,
+      "maxPossible": 157
     },
     {
       "name": "Jack revell",
@@ -79,7 +80,7 @@
       "stagePts": 0,
       "gf": 25,
       "ga": 15,
-      "maxPossible": 153
+      "maxPossible": 150
     },
     {
       "name": "MurderOnZidanesFloor",
@@ -91,10 +92,10 @@
     },
     {
       "name": "Cian Collins",
-      "matchPts": 28,
+      "matchPts": 31,
       "stagePts": 0,
-      "gf": 26,
-      "ga": 17,
+      "gf": 29,
+      "ga": 18,
       "maxPossible": 156
     },
     {
@@ -103,7 +104,7 @@
       "stagePts": 0,
       "gf": 26,
       "ga": 10,
-      "maxPossible": 160
+      "maxPossible": 157
     },
     {
       "name": "JayRev",
@@ -111,22 +112,22 @@
       "stagePts": 0,
       "gf": 23,
       "ga": 21,
-      "maxPossible": 152
+      "maxPossible": 149
     },
     {
       "name": "Dina",
-      "matchPts": 27,
+      "matchPts": 30,
       "stagePts": 0,
-      "gf": 24,
-      "ga": 12,
-      "maxPossible": 158
+      "gf": 27,
+      "ga": 13,
+      "maxPossible": 155
     },
     {
       "name": "Ciaran Slattery",
-      "matchPts": 25,
+      "matchPts": 28,
       "stagePts": 0,
-      "gf": 23,
-      "ga": 13,
+      "gf": 26,
+      "ga": 14,
       "maxPossible": 153
     },
     {
@@ -143,14 +144,14 @@
       "stagePts": 0,
       "gf": 37,
       "ga": 19,
-      "maxPossible": 159
+      "maxPossible": 156
     },
     {
       "name": "Dean Murphy",
-      "matchPts": 31,
+      "matchPts": 34,
       "stagePts": 0,
-      "gf": 35,
-      "ga": 21,
+      "gf": 38,
+      "ga": 22,
       "maxPossible": 159
     },
     {
@@ -159,7 +160,7 @@
       "stagePts": 0,
       "gf": 32,
       "ga": 17,
-      "maxPossible": 160
+      "maxPossible": 157
     },
     {
       "name": "Gloria O Regan",
@@ -167,14 +168,14 @@
       "stagePts": 0,
       "gf": 33,
       "ga": 22,
-      "maxPossible": 154
+      "maxPossible": 151
     },
     {
       "name": "Fiona Harte",
-      "matchPts": 29,
+      "matchPts": 32,
       "stagePts": 0,
-      "gf": 25,
-      "ga": 14,
+      "gf": 28,
+      "ga": 15,
       "maxPossible": 157
     },
     {
@@ -183,7 +184,7 @@
       "stagePts": 0,
       "gf": 27,
       "ga": 15,
-      "maxPossible": 157
+      "maxPossible": 151
     },
     {
       "name": "Dean Walsh",
@@ -191,7 +192,7 @@
       "stagePts": 0,
       "gf": 29,
       "ga": 20,
-      "maxPossible": 155
+      "maxPossible": 149
     },
     {
       "name": "Pauly",
@@ -207,7 +208,7 @@
       "stagePts": 0,
       "gf": 33,
       "ga": 16,
-      "maxPossible": 159
+      "maxPossible": 156
     },
     {
       "name": "Rafael Antunes",
@@ -215,7 +216,7 @@
       "stagePts": 0,
       "gf": 33,
       "ga": 15,
-      "maxPossible": 156
+      "maxPossible": 153
     },
     {
       "name": "Puds",
@@ -223,7 +224,7 @@
       "stagePts": 0,
       "gf": 27,
       "ga": 15,
-      "maxPossible": 155
+      "maxPossible": 149
     }
   ]
 }
