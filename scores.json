@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-29T23:30:52Z",
+  "lastUpdated": "2026-06-29T23:45:33Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 220,
+  "actualTotalGoals": 231,
   "eliminatedTeams": [
     "Cura\u00e7ao",
     "Czech Republic",
@@ -44,8 +44,8 @@
       "name": "Michael Q",
       "matchPts": 32,
       "stagePts": 15,
-      "gf": 38,
-      "ga": 18,
+      "gf": 43,
+      "ga": 24,
       "maxPossible": 169
     },
     {
@@ -114,11 +114,11 @@
     },
     {
       "name": "JayRev",
-      "matchPts": 24,
+      "matchPts": 27,
       "stagePts": 12,
-      "gf": 23,
-      "ga": 21,
-      "maxPossible": 158
+      "gf": 29,
+      "ga": 26,
+      "maxPossible": 161
     },
     {
       "name": "Dina",
@@ -138,11 +138,11 @@
     },
     {
       "name": "Kevin B",
-      "matchPts": 30,
+      "matchPts": 33,
       "stagePts": 15,
-      "gf": 24,
-      "ga": 13,
-      "maxPossible": 167
+      "gf": 30,
+      "ga": 18,
+      "maxPossible": 170
     },
     {
       "name": "Brian Crotty",
@@ -196,8 +196,8 @@
       "name": "Dean Walsh",
       "matchPts": 24,
       "stagePts": 9,
-      "gf": 29,
-      "ga": 20,
+      "gf": 34,
+      "ga": 26,
       "maxPossible": 155
     },
     {
