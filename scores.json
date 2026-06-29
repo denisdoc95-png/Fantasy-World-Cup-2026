@@ -1,14 +1,15 @@
 {
-  "lastUpdated": "2026-06-29T19:01:04Z",
+  "lastUpdated": "2026-06-29T19:15:37Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 217,
+  "actualTotalGoals": 220,
   "eliminatedTeams": [
     "Cura\u00e7ao",
     "Czech Republic",
     "Haiti",
     "Iran",
     "Iraq",
+    "Japan",
     "Jordan",
     "New Zealand",
     "Panama",
@@ -83,8 +84,8 @@
       "name": "Jack revell",
       "matchPts": 25,
       "stagePts": 9,
-      "gf": 25,
-      "ga": 15,
+      "gf": 26,
+      "ga": 17,
       "maxPossible": 156
     },
     {
@@ -147,8 +148,8 @@
       "name": "Brian Crotty",
       "matchPts": 31,
       "stagePts": 15,
-      "gf": 37,
-      "ga": 19,
+      "gf": 38,
+      "ga": 21,
       "maxPossible": 168
     },
     {
@@ -185,11 +186,11 @@
     },
     {
       "name": "Bonbon Athletics",
-      "matchPts": 26,
+      "matchPts": 29,
       "stagePts": 12,
-      "gf": 27,
-      "ga": 15,
-      "maxPossible": 157
+      "gf": 30,
+      "ga": 18,
+      "maxPossible": 160
     },
     {
       "name": "Dean Walsh",
@@ -219,17 +220,17 @@
       "name": "Rafael Antunes",
       "matchPts": 28,
       "stagePts": 15,
-      "gf": 33,
-      "ga": 15,
+      "gf": 34,
+      "ga": 17,
       "maxPossible": 165
     },
     {
       "name": "Puds",
-      "matchPts": 24,
+      "matchPts": 27,
       "stagePts": 12,
-      "gf": 27,
-      "ga": 15,
-      "maxPossible": 158
+      "gf": 29,
+      "ga": 16,
+      "maxPossible": 161
     }
   ]
 }
