@@ -256,18 +256,20 @@ def build_team_stats(matches: list, confirmed: dict) -> dict:
     for m in confirmed.values():
         apply_match(m)
 
-    # ── Phase 2: Add GROUP_STAGE appearances from full API match list ────────────
-    # Only GROUP_STAGE — knockout stage appearances ONLY come from confirmed
-    # (Phase 1). This prevents premature stage bonuses for teams that are
-    # mathematically through but whose group stage isn't fully complete yet.
+    # ── Phase 2: Add GROUP_STAGE and LAST_32 appearances from API ───────────────
+    # GROUP_STAGE: always safe to add from API.
+    # LAST_32: safe to add if the fixture has REAL team names (not None) —
+    #   this means the draw has been made and the team genuinely qualified.
+    #   We skip placeholders (None names) to avoid premature bonuses.
+    # LAST_16 and beyond: ONLY from confirmed results (Phase 1 above).
     for m in matches:
         stage = m.get("stage", "")
-        if stage != "GROUP_STAGE":
+        if stage not in ("GROUP_STAGE", "LAST_32"):
             continue
         h = m["homeTeam"].get("name")
         a = m["awayTeam"].get("name")
         if not h or not a:
-            continue
+            continue  # skip placeholder fixtures with no team names yet
         home = normalise(h)
         away = normalise(a)
         ensure(home)
