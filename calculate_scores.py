@@ -306,10 +306,11 @@ def get_eliminated_teams(matches: list, confirmed: dict) -> list:
     """
     Returns teams that are definitively eliminated.
 
-    Two sources:
+    Three sources:
       1. Lost a confirmed knockout match (LAST_32, LAST_16, QF, SF, Final)
-      2. Finished 4th in their group (all 6 group matches confirmed).
-         4th place is always eliminated in WC 2026 format.
+      2. Finished 4th in their group (all 6 group matches confirmed)
+      3. All 12 groups complete AND team not in any LAST_32 fixture with
+         real team names — covers 3rd place teams that didn't qualify
     """
     KNOCKOUT_STAGES = {"LAST_32", "LAST_16", "QUARTER_FINALS",
                        "SEMI_FINALS", "FINAL", "THIRD_PLACE"}
@@ -332,15 +333,21 @@ def get_eliminated_teams(matches: list, confirmed: dict) -> list:
         elif winner == "AWAY_TEAM":
             eliminated.add(home)
 
-    # ── Rule 2: 4th place in completed groups ─────────────────────────
+    # ── Rule 2 & 3: Group stage elimination ──────────────────────────
     groups = defaultdict(list)
     for m in confirmed.values():
         if m.get("stage") == "GROUP_STAGE" and m.get("group"):
             groups[m["group"]].append(m)
 
-    for group_name, group_matches in groups.items():
+    all_groups_complete = len(groups) == 12 and all(
+        len(ms) >= 6 for ms in groups.values()
+    )
+
+    group_complete_teams = set()
+
+    for group_matches in groups.values():
         if len(group_matches) < 6:
-            continue  # group not yet complete
+            continue
 
         standings = defaultdict(lambda: {"pts": 0, "gd": 0, "gf": 0})
         for m in group_matches:
@@ -350,6 +357,8 @@ def get_eliminated_teams(matches: list, confirmed: dict) -> list:
             hg, ag = ft["home"], ft["away"]
             if hg is None or ag is None:
                 continue
+            group_complete_teams.add(h)
+            group_complete_teams.add(a)
             standings[h]["gf"] += hg
             standings[h]["gd"] += hg - ag
             standings[a]["gf"] += ag
@@ -368,10 +377,26 @@ def get_eliminated_teams(matches: list, confirmed: dict) -> list:
                                        standings[t]["gd"],
                                        standings[t]["gf"]),
                         reverse=True)
-
-        # 4th place always eliminated
+        # Rule 2: 4th place always eliminated
         if len(ranked) >= 4:
             eliminated.add(ranked[3])
+
+    # Rule 3: Teams that finished group stage but not in any LAST_32 fixture
+    # Only apply when ALL 12 groups are complete AND LAST_32 draw has started
+    # (at least 1 fixture with real team names)
+    if all_groups_complete:
+        last32_teams = set()
+        for m in list(matches) + list(confirmed.values()):
+            if m.get("stage") == "LAST_32":
+                h = m["homeTeam"].get("name")
+                a = m["awayTeam"].get("name")
+                if h: last32_teams.add(normalise(h))
+                if a: last32_teams.add(normalise(a))
+
+        if last32_teams:  # draw has been made
+            for team in group_complete_teams:
+                if team not in last32_teams and team not in eliminated:
+                    eliminated.add(team)
 
     return sorted(eliminated)
 
