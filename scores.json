@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-30T03:45:35Z",
+  "lastUpdated": "2026-06-30T04:00:58Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 231,
+  "actualTotalGoals": 238,
   "eliminatedTeams": [
     "Cura\u00e7ao",
     "Czech Republic",
@@ -26,11 +26,11 @@
   "participants": [
     {
       "name": "Jackoooo",
-      "matchPts": 34,
+      "matchPts": 37,
       "stagePts": 12,
-      "gf": 35,
-      "ga": 18,
-      "maxPossible": 168
+      "gf": 39,
+      "ga": 21,
+      "maxPossible": 171
     },
     {
       "name": "Rob Morgan",
@@ -50,11 +50,11 @@
     },
     {
       "name": "Cormac Sheehy",
-      "matchPts": 35,
+      "matchPts": 38,
       "stagePts": 15,
-      "gf": 39,
-      "ga": 20,
-      "maxPossible": 172
+      "gf": 43,
+      "ga": 23,
+      "maxPossible": 175
     },
     {
       "name": "Stephen Quinn",
@@ -66,19 +66,19 @@
     },
     {
       "name": "Denis OC",
-      "matchPts": 33,
+      "matchPts": 36,
       "stagePts": 15,
-      "gf": 36,
-      "ga": 19,
-      "maxPossible": 170
+      "gf": 40,
+      "ga": 22,
+      "maxPossible": 173
     },
     {
       "name": "Kylian McFrappe",
-      "matchPts": 32,
+      "matchPts": 35,
       "stagePts": 12,
-      "gf": 34,
-      "ga": 19,
-      "maxPossible": 166
+      "gf": 38,
+      "ga": 22,
+      "maxPossible": 169
     },
     {
       "name": "Jack revell",
@@ -122,11 +122,11 @@
     },
     {
       "name": "Dina",
-      "matchPts": 30,
+      "matchPts": 33,
       "stagePts": 12,
-      "gf": 27,
-      "ga": 13,
-      "maxPossible": 164
+      "gf": 31,
+      "ga": 16,
+      "maxPossible": 167
     },
     {
       "name": "Ciaran Slattery",
@@ -162,18 +162,18 @@
     },
     {
       "name": "Megan Farr",
-      "matchPts": 32,
+      "matchPts": 35,
       "stagePts": 12,
-      "gf": 32,
-      "ga": 17,
-      "maxPossible": 166
+      "gf": 36,
+      "ga": 20,
+      "maxPossible": 169
     },
     {
       "name": "Gloria O Regan",
       "matchPts": 26,
       "stagePts": 12,
-      "gf": 33,
-      "ga": 22,
+      "gf": 36,
+      "ga": 26,
       "maxPossible": 160
     },
     {
@@ -210,11 +210,11 @@
     },
     {
       "name": "James Conroy",
-      "matchPts": 31,
+      "matchPts": 34,
       "stagePts": 15,
-      "gf": 33,
-      "ga": 16,
-      "maxPossible": 168
+      "gf": 37,
+      "ga": 19,
+      "maxPossible": 171
     },
     {
       "name": "Rafael Antunes",
