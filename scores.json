@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T06:01:01Z",
+  "lastUpdated": "2026-06-30T06:15:33Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 238,
@@ -30,7 +30,7 @@
       "stagePts": 12,
       "gf": 39,
       "ga": 21,
-      "maxPossible": 171
+      "maxPossible": 174
     },
     {
       "name": "Rob Morgan",
@@ -54,7 +54,7 @@
       "stagePts": 15,
       "gf": 43,
       "ga": 23,
-      "maxPossible": 175
+      "maxPossible": 178
     },
     {
       "name": "Stephen Quinn",
@@ -70,7 +70,7 @@
       "stagePts": 15,
       "gf": 40,
       "ga": 22,
-      "maxPossible": 173
+      "maxPossible": 176
     },
     {
       "name": "Kylian McFrappe",
@@ -78,7 +78,7 @@
       "stagePts": 12,
       "gf": 38,
       "ga": 22,
-      "maxPossible": 169
+      "maxPossible": 172
     },
     {
       "name": "Jack revell",
@@ -118,7 +118,7 @@
       "stagePts": 12,
       "gf": 29,
       "ga": 26,
-      "maxPossible": 161
+      "maxPossible": 164
     },
     {
       "name": "Dina",
@@ -126,7 +126,7 @@
       "stagePts": 12,
       "gf": 31,
       "ga": 16,
-      "maxPossible": 167
+      "maxPossible": 170
     },
     {
       "name": "Ciaran Slattery",
@@ -142,7 +142,7 @@
       "stagePts": 15,
       "gf": 30,
       "ga": 18,
-      "maxPossible": 170
+      "maxPossible": 173
     },
     {
       "name": "Brian Crotty",
@@ -166,7 +166,7 @@
       "stagePts": 12,
       "gf": 36,
       "ga": 20,
-      "maxPossible": 169
+      "maxPossible": 172
     },
     {
       "name": "Gloria O Regan",
@@ -190,7 +190,7 @@
       "stagePts": 12,
       "gf": 30,
       "ga": 18,
-      "maxPossible": 160
+      "maxPossible": 163
     },
     {
       "name": "Dean Walsh",
@@ -214,7 +214,7 @@
       "stagePts": 15,
       "gf": 37,
       "ga": 19,
-      "maxPossible": 171
+      "maxPossible": 174
     },
     {
       "name": "Rafael Antunes",
@@ -230,7 +230,7 @@
       "stagePts": 12,
       "gf": 29,
       "ga": 16,
-      "maxPossible": 161
+      "maxPossible": 164
     }
   ]
 }
