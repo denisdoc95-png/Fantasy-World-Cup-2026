@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-30T22:45:35Z",
+  "lastUpdated": "2026-06-30T23:00:59Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 241,
+  "actualTotalGoals": 244,
   "eliminatedTeams": [
     "Cura\u00e7ao",
     "Czech Republic",
@@ -21,6 +21,7 @@
     "Scotland",
     "South Africa",
     "South Korea",
+    "Sweden",
     "Tunisia",
     "Turkey",
     "Uruguay",
@@ -29,75 +30,75 @@
   "participants": [
     {
       "name": "Jackoooo",
-      "matchPts": 40,
-      "stagePts": 18,
-      "gf": 38,
+      "matchPts": 43,
+      "stagePts": 21,
+      "gf": 41,
       "ga": 20,
-      "maxPossible": 171
+      "maxPossible": 174
     },
     {
       "name": "Rob Morgan",
-      "matchPts": 34,
-      "stagePts": 18,
-      "gf": 32,
+      "matchPts": 37,
+      "stagePts": 21,
+      "gf": 35,
       "ga": 17,
-      "maxPossible": 168
+      "maxPossible": 171
     },
     {
       "name": "Michael Q",
-      "matchPts": 32,
-      "stagePts": 15,
-      "gf": 40,
-      "ga": 21,
-      "maxPossible": 160
+      "matchPts": 35,
+      "stagePts": 18,
+      "gf": 43,
+      "ga": 24,
+      "maxPossible": 163
     },
     {
       "name": "Cormac Sheehy",
-      "matchPts": 41,
-      "stagePts": 21,
-      "gf": 42,
-      "ga": 22,
-      "maxPossible": 172
+      "matchPts": 44,
+      "stagePts": 24,
+      "gf": 45,
+      "ga": 25,
+      "maxPossible": 175
     },
     {
       "name": "Stephen Quinn",
-      "matchPts": 26,
-      "stagePts": 12,
-      "gf": 32,
-      "ga": 21,
-      "maxPossible": 157
+      "matchPts": 29,
+      "stagePts": 15,
+      "gf": 35,
+      "ga": 24,
+      "maxPossible": 160
     },
     {
       "name": "Denis OC",
-      "matchPts": 39,
-      "stagePts": 21,
-      "gf": 39,
-      "ga": 21,
-      "maxPossible": 170
+      "matchPts": 42,
+      "stagePts": 24,
+      "gf": 42,
+      "ga": 24,
+      "maxPossible": 173
     },
     {
       "name": "Kylian McFrappe",
-      "matchPts": 38,
-      "stagePts": 18,
-      "gf": 37,
+      "matchPts": 41,
+      "stagePts": 21,
+      "gf": 40,
       "ga": 21,
-      "maxPossible": 169
+      "maxPossible": 172
     },
     {
       "name": "Jack revell",
-      "matchPts": 25,
-      "stagePts": 9,
-      "gf": 26,
+      "matchPts": 28,
+      "stagePts": 12,
+      "gf": 29,
       "ga": 17,
-      "maxPossible": 153
+      "maxPossible": 156
     },
     {
       "name": "MurderOnZidanesFloor",
-      "matchPts": 34,
-      "stagePts": 15,
-      "gf": 33,
+      "matchPts": 37,
+      "stagePts": 18,
+      "gf": 36,
       "ga": 20,
-      "maxPossible": 165
+      "maxPossible": 168
     },
     {
       "name": "Cian Collins",
@@ -109,11 +110,11 @@
     },
     {
       "name": "Conor skehan",
-      "matchPts": 32,
-      "stagePts": 12,
-      "gf": 27,
+      "matchPts": 35,
+      "stagePts": 15,
+      "gf": 30,
       "ga": 12,
-      "maxPossible": 163
+      "maxPossible": 166
     },
     {
       "name": "JayRev",
@@ -141,42 +142,42 @@
     },
     {
       "name": "Kevin B",
-      "matchPts": 33,
-      "stagePts": 18,
-      "gf": 25,
+      "matchPts": 36,
+      "stagePts": 21,
+      "gf": 28,
       "ga": 14,
-      "maxPossible": 170
+      "maxPossible": 173
     },
     {
       "name": "Brian Crotty",
-      "matchPts": 34,
-      "stagePts": 18,
-      "gf": 40,
-      "ga": 22,
-      "maxPossible": 162
+      "matchPts": 37,
+      "stagePts": 21,
+      "gf": 43,
+      "ga": 25,
+      "maxPossible": 165
     },
     {
       "name": "Dean Murphy",
-      "matchPts": 37,
-      "stagePts": 18,
-      "gf": 40,
-      "ga": 23,
-      "maxPossible": 168
+      "matchPts": 40,
+      "stagePts": 21,
+      "gf": 43,
+      "ga": 26,
+      "maxPossible": 171
     },
     {
       "name": "Megan Farr",
-      "matchPts": 38,
-      "stagePts": 18,
-      "gf": 35,
+      "matchPts": 41,
+      "stagePts": 21,
+      "gf": 38,
       "ga": 19,
-      "maxPossible": 169
+      "maxPossible": 172
     },
     {
       "name": "Gloria O Regan",
       "matchPts": 29,
       "stagePts": 15,
       "gf": 36,
-      "ga": 24,
+      "ga": 27,
       "maxPossible": 157
     },
     {
@@ -192,16 +193,16 @@
       "matchPts": 29,
       "stagePts": 15,
       "gf": 30,
-      "ga": 18,
+      "ga": 21,
       "maxPossible": 160
     },
     {
       "name": "Dean Walsh",
-      "matchPts": 24,
-      "stagePts": 9,
-      "gf": 30,
+      "matchPts": 27,
+      "stagePts": 12,
+      "gf": 33,
       "ga": 21,
-      "maxPossible": 152
+      "maxPossible": 155
     },
     {
       "name": "Pauly",
@@ -213,26 +214,26 @@
     },
     {
       "name": "James Conroy",
-      "matchPts": 34,
-      "stagePts": 18,
-      "gf": 34,
-      "ga": 17,
-      "maxPossible": 168
+      "matchPts": 37,
+      "stagePts": 21,
+      "gf": 37,
+      "ga": 20,
+      "maxPossible": 171
     },
     {
       "name": "Rafael Antunes",
-      "matchPts": 31,
-      "stagePts": 18,
-      "gf": 36,
+      "matchPts": 34,
+      "stagePts": 21,
+      "gf": 39,
       "ga": 18,
-      "maxPossible": 162
+      "maxPossible": 165
     },
     {
       "name": "Puds",
       "matchPts": 27,
       "stagePts": 15,
       "gf": 30,
-      "ga": 18,
+      "ga": 21,
       "maxPossible": 158
     }
   ]
