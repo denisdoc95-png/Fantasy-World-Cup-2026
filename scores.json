@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T01:01:04Z",
+  "lastUpdated": "2026-06-30T01:15:35Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 231,
@@ -30,7 +30,7 @@
       "stagePts": 12,
       "gf": 35,
       "ga": 18,
-      "maxPossible": 171
+      "maxPossible": 168
     },
     {
       "name": "Rob Morgan",
@@ -54,7 +54,7 @@
       "stagePts": 15,
       "gf": 39,
       "ga": 20,
-      "maxPossible": 175
+      "maxPossible": 172
     },
     {
       "name": "Stephen Quinn",
@@ -70,7 +70,7 @@
       "stagePts": 15,
       "gf": 36,
       "ga": 19,
-      "maxPossible": 173
+      "maxPossible": 170
     },
     {
       "name": "Kylian McFrappe",
@@ -78,7 +78,7 @@
       "stagePts": 12,
       "gf": 34,
       "ga": 19,
-      "maxPossible": 169
+      "maxPossible": 166
     },
     {
       "name": "Jack revell",
@@ -126,7 +126,7 @@
       "stagePts": 12,
       "gf": 27,
       "ga": 13,
-      "maxPossible": 167
+      "maxPossible": 164
     },
     {
       "name": "Ciaran Slattery",
@@ -166,7 +166,7 @@
       "stagePts": 12,
       "gf": 32,
       "ga": 17,
-      "maxPossible": 169
+      "maxPossible": 166
     },
     {
       "name": "Gloria O Regan",
@@ -174,7 +174,7 @@
       "stagePts": 12,
       "gf": 33,
       "ga": 22,
-      "maxPossible": 163
+      "maxPossible": 160
     },
     {
       "name": "Fiona Harte",
@@ -214,7 +214,7 @@
       "stagePts": 15,
       "gf": 33,
       "ga": 16,
-      "maxPossible": 171
+      "maxPossible": 168
     },
     {
       "name": "Rafael Antunes",
