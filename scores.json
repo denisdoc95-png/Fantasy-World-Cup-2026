@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-01T22:45:33Z",
+  "lastUpdated": "2026-07-01T23:01:03Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 249,
+  "actualTotalGoals": 254,
   "eliminatedTeams": [
     "Cura\u00e7ao",
     "Czech Republic",
@@ -21,6 +21,7 @@
     "Qatar",
     "Saudi Arabia",
     "Scotland",
+    "Senegal",
     "South Africa",
     "South Korea",
     "Sweden",
@@ -66,8 +67,8 @@
       "name": "Stephen Quinn",
       "matchPts": 32,
       "stagePts": 18,
-      "gf": 37,
-      "ga": 25,
+      "gf": 39,
+      "ga": 28,
       "maxPossible": 160
     },
     {
