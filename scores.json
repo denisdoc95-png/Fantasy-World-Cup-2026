@@ -1,11 +1,12 @@
 {
-  "lastUpdated": "2026-07-01T18:01:08Z",
+  "lastUpdated": "2026-07-01T18:15:32Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 246,
+  "actualTotalGoals": 249,
   "eliminatedTeams": [
     "Cura\u00e7ao",
     "Czech Republic",
+    "DR Congo",
     "Ecuador",
     "Germany",
     "Haiti",
@@ -63,11 +64,11 @@
     },
     {
       "name": "Stephen Quinn",
-      "matchPts": 29,
-      "stagePts": 15,
-      "gf": 35,
-      "ga": 24,
-      "maxPossible": 160
+      "matchPts": 32,
+      "stagePts": 18,
+      "gf": 37,
+      "ga": 25,
+      "maxPossible": 163
     },
     {
       "name": "Denis OC",
@@ -119,11 +120,11 @@
     },
     {
       "name": "JayRev",
-      "matchPts": 27,
-      "stagePts": 15,
-      "gf": 24,
-      "ga": 22,
-      "maxPossible": 161
+      "matchPts": 30,
+      "stagePts": 18,
+      "gf": 26,
+      "ga": 23,
+      "maxPossible": 164
     },
     {
       "name": "Dina",
@@ -207,11 +208,11 @@
     },
     {
       "name": "Pauly",
-      "matchPts": 33,
-      "stagePts": 15,
-      "gf": 28,
-      "ga": 16,
-      "maxPossible": 167
+      "matchPts": 36,
+      "stagePts": 18,
+      "gf": 30,
+      "ga": 17,
+      "maxPossible": 170
     },
     {
       "name": "James Conroy",
