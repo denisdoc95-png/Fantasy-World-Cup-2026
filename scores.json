@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T06:01:04Z",
+  "lastUpdated": "2026-07-02T06:30:57Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 256,
@@ -70,7 +70,7 @@
       "stagePts": 18,
       "gf": 39,
       "ga": 28,
-      "maxPossible": 160
+      "maxPossible": 163
     },
     {
       "name": "Denis OC",
@@ -126,7 +126,7 @@
       "stagePts": 21,
       "gf": 28,
       "ga": 23,
-      "maxPossible": 164
+      "maxPossible": 170
     },
     {
       "name": "Dina",
@@ -214,7 +214,7 @@
       "stagePts": 18,
       "gf": 30,
       "ga": 17,
-      "maxPossible": 170
+      "maxPossible": 173
     },
     {
       "name": "James Conroy",
