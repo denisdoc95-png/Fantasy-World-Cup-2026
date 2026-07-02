@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T00:01:08Z",
+  "lastUpdated": "2026-07-02T00:15:33Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 254,
@@ -125,7 +125,7 @@
       "stagePts": 18,
       "gf": 26,
       "ga": 23,
-      "maxPossible": 164
+      "maxPossible": 161
     },
     {
       "name": "Dina",
@@ -205,7 +205,7 @@
       "stagePts": 12,
       "gf": 33,
       "ga": 21,
-      "maxPossible": 158
+      "maxPossible": 155
     },
     {
       "name": "Pauly",
