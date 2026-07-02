@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T23:01:10Z",
+  "lastUpdated": "2026-07-02T23:15:31Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 259,
@@ -47,7 +47,7 @@
       "stagePts": 24,
       "gf": 38,
       "ga": 17,
-      "maxPossible": 177
+      "maxPossible": 174
     },
     {
       "name": "Michael Q",
@@ -103,7 +103,7 @@
       "stagePts": 21,
       "gf": 39,
       "ga": 20,
-      "maxPossible": 174
+      "maxPossible": 171
     },
     {
       "name": "Cian Collins",
@@ -111,7 +111,7 @@
       "stagePts": 18,
       "gf": 34,
       "ga": 19,
-      "maxPossible": 171
+      "maxPossible": 168
     },
     {
       "name": "Conor skehan",
@@ -127,7 +127,7 @@
       "stagePts": 21,
       "gf": 28,
       "ga": 23,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "Dina",
@@ -151,7 +151,7 @@
       "stagePts": 24,
       "gf": 31,
       "ga": 14,
-      "maxPossible": 176
+      "maxPossible": 173
     },
     {
       "name": "Brian Crotty",
@@ -167,7 +167,7 @@
       "stagePts": 21,
       "gf": 43,
       "ga": 26,
-      "maxPossible": 177
+      "maxPossible": 174
     },
     {
       "name": "Megan Farr",
@@ -191,7 +191,7 @@
       "stagePts": 21,
       "gf": 33,
       "ga": 16,
-      "maxPossible": 175
+      "maxPossible": 172
     },
     {
       "name": "Bonbon Athletics",
@@ -231,7 +231,7 @@
       "stagePts": 21,
       "gf": 39,
       "ga": 18,
-      "maxPossible": 171
+      "maxPossible": 168
     },
     {
       "name": "Puds",
@@ -239,7 +239,7 @@
       "stagePts": 15,
       "gf": 30,
       "ga": 21,
-      "maxPossible": 158
+      "maxPossible": 155
     }
   ]
 }
