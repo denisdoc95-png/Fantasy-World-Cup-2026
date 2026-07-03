@@ -140,36 +140,33 @@
 <script>
   // ── PARTICIPANT DATA — team picks + tiebreaker predictions ──────────
   // Loaded once from Google Form responses. Do NOT change after 11 June 2026.
-  // tb_winner = tournament winner prediction
-  // tb_goals  = total goals in tournament prediction
-  // tb_boot   = golden boot scorer prediction
   const picks = [
-    { name: "Jackoooo",             pot1: "France",      pot2: "Morocco",    pot3: "Norway",    pot4: "Turkey",                 wildcard: "Argentina",    tb_winner: "France",   tb_goals: 285, tb_boot: "Kylian Mbappe"  },
-    { name: "Rob Morgan",           pot1: "France",      pot2: "Croatia",    pot3: "Norway",    pot4: "Cape Verde",             wildcard: "Spain",        tb_winner: "France",   tb_goals: 125, tb_boot: "Kylian Mbappe"  },
-    { name: "Michael Q",            pot1: "France",      pot2: "Switzerland",pot3: "Ivory Coast",pot4: "Sweden",               wildcard: "Germany",      tb_winner: "France",   tb_goals: 304, tb_boot: "Kylian Mbappe"  },
-    { name: "Cormac Sheehy",        pot1: "France",      pot2: "Morocco",    pot3: "Norway",    pot4: "Sweden",                 wildcard: "Argentina",    tb_winner: "France",   tb_goals: 272, tb_boot: "Kylian Mbappe"  },
-    { name: "Stephen Quinn",        pot1: "France",      pot2: "Senegal",    pot3: "Scotland",  pot4: "Sweden",                 wildcard: "England",      tb_winner: "France",   tb_goals: 169, tb_boot: "Kylian Mbappe"  },
-    { name: "Denis OC",             pot1: "France",      pot2: "Morocco",    pot3: "Norway",    pot4: "Sweden",                 wildcard: "Spain",        tb_winner: "France",   tb_goals: 312, tb_boot: "Harry Kane"      },
-    { name: "Kylian McFrappe",      pot1: "France",      pot2: "Morocco",    pot3: "Norway",    pot4: "Czech Republic",         wildcard: "Argentina",    tb_winner: "France",   tb_goals: 260, tb_boot: "Harry Kane"      },
-    { name: "Jack revell",          pot1: "France",      pot2: "Japan",      pot3: "Scotland",  pot4: "Czech Republic",         wildcard: "Spain",        tb_winner: "Spain",    tb_goals: 291, tb_boot: "Neymar"          },
-    { name: "MurderOnZidanesFloor", pot1: "France",      pot2: "Croatia",    pot3: "Norway",    pot4: "Turkey",                 wildcard: "Spain",        tb_winner: "France",   tb_goals: 300, tb_boot: "Kylian Mbappe"  },
-    { name: "Cian Collins",         pot1: "Spain",       pot2: "Croatia",    pot3: "Norway",    pot4: "Turkey",                 wildcard: "Argentina",    tb_winner: "France",   tb_goals: 189, tb_boot: "Kylian Mbappe"  },
-    { name: "Conor skehan",         pot1: "France",      pot2: "Colombia",   pot3: "Ivory Coast",pot4: "Turkey",               wildcard: "Spain",        tb_winner: "France",   tb_goals: 283, tb_boot: "Kylian Mbappe"  },
-    { name: "JayRev",               pot1: "England",     pot2: "Croatia",    pot3: "Paraguay",  pot4: "Czech Republic",         wildcard: "United States",tb_winner: "Brazil",   tb_goals: 189, tb_boot: "Lamine Yamal"   },
-    { name: "Dina",                 pot1: "Spain",       pot2: "Morocco",    pot3: "Egypt",     pot4: "Turkey",                 wildcard: "Argentina",    tb_winner: "Spain",    tb_goals: 263, tb_boot: "Oyarzabal"      },
-    { name: "Ciaran Slattery",      pot1: "Argentina",   pot2: "Uruguay",    pot3: "Norway",    pot4: "Ghana",                  wildcard: "Spain",        tb_winner: "Brazil",   tb_goals: 186, tb_boot: "Ferran Torres"  },
-    { name: "Kevin B",              pot1: "Spain",       pot2: "Croatia",    pot3: "Paraguay",  pot4: "Ghana",                  wildcard: "France",       tb_winner: "Spain",    tb_goals: 170, tb_boot: "Kylian Mbappe"  },
-    { name: "Brian Crotty",         pot1: "Spain",       pot2: "Japan",      pot3: "Norway",    pot4: "Sweden",                 wildcard: "France",       tb_winner: "Spain",    tb_goals: 177, tb_boot: "Harry Kane"      },
-    { name: "Dean Murphy",          pot1: "France",      pot2: "Croatia",    pot3: "Norway",    pot4: "Sweden",                 wildcard: "Argentina",    tb_winner: "Brazil",   tb_goals: 168, tb_boot: "Kylian Mbappe"  },
-    { name: "Megan Farr",           pot1: "Spain",       pot2: "Morocco",    pot3: "Norway",    pot4: "Turkey",                 wildcard: "France",       tb_winner: "Spain",    tb_goals: 282, tb_boot: "Lamine Yamal"   },
-    { name: "Gloria O Regan",       pot1: "Netherlands", pot2: "Uruguay",    pot3: "Norway",    pot4: "Sweden",                 wildcard: "Spain",        tb_winner: "Spain",    tb_goals: 284, tb_boot: "Harry Kane"      },
-    { name: "Fiona Harte",          pot1: "Argentina",   pot2: "Croatia",    pot3: "Norway",    pot4: "Ghana",                  wildcard: "Spain",        tb_winner: "Spain",    tb_goals: 295, tb_boot: "Kylian Mbappe"  },
-    { name: "Bonbon Athletics",     pot1: "Brazil",      pot2: "Japan",      pot3: "Scotland",  pot4: "Sweden",                 wildcard: "Spain",        tb_winner: "Brazil",   tb_goals: 210, tb_boot: "Erling Haaland" },
-    { name: "Dean Walsh",           pot1: "France",      pot2: "Uruguay",    pot3: "Scotland",  pot4: "Bosnia and Herzegovina", wildcard: "Germany",      tb_winner: "France",   tb_goals: 176, tb_boot: "Dembele"        },
-    { name: "Pauly",                pot1: "England",     pot2: "Colombia",   pot3: "Norway",    pot4: "Turkey",                 wildcard: "Spain",        tb_winner: "Spain",    tb_goals: 241, tb_boot: "Harry Kane"      },
-    { name: "James Conroy",         pot1: "Spain",       pot2: "Morocco",    pot3: "Egypt",     pot4: "Sweden",                 wildcard: "France",       tb_winner: "Spain",    tb_goals: 170, tb_boot: "Kylian Mbappe"  },
-    { name: "Rafael Antunes",       pot1: "Portugal",    pot2: "Japan",      pot3: "Norway",    pot4: "Cape Verde",             wildcard: "France",       tb_winner: "Portugal", tb_goals: 350, tb_boot: "Harry Kane"      },
-    { name: "Puds",                 pot1: "Brazil",      pot2: "Uruguay",    pot3: "Ivory Coast",pot4: "Sweden",               wildcard: "Portugal",     tb_winner: "Portugal", tb_goals: 229, tb_boot: "Kylian Mbappe"  },
+    { name:"Jackoooo", pot1:"France", pot2:"Morocco", pot3:"Norway", pot4:"Turkey", wildcard:"Argentina", tb_winner:"France", tb_goals:285, tb_boot:"Kylian Mbappe" },
+    { name:"Rob Morgan", pot1:"France", pot2:"Croatia", pot3:"Norway", pot4:"Cape Verde", wildcard:"Spain", tb_winner:"France", tb_goals:125, tb_boot:"Kylian Mbappe" },
+    { name:"Michael Q", pot1:"France", pot2:"Switzerland", pot3:"Ivory Coast", pot4:"Sweden", wildcard:"Germany", tb_winner:"France", tb_goals:304, tb_boot:"Kylian Mbappe" },
+    { name:"Cormac Sheehy", pot1:"France", pot2:"Morocco", pot3:"Norway", pot4:"Sweden", wildcard:"Argentina", tb_winner:"France", tb_goals:272, tb_boot:"Kylian Mbappe" },
+    { name:"Stephen Quinn", pot1:"France", pot2:"Senegal", pot3:"Scotland", pot4:"Sweden", wildcard:"England", tb_winner:"France", tb_goals:169, tb_boot:"Kylian Mbappe" },
+    { name:"Denis OC", pot1:"France", pot2:"Morocco", pot3:"Norway", pot4:"Sweden", wildcard:"Spain", tb_winner:"France", tb_goals:312, tb_boot:"Harry Kane" },
+    { name:"Kylian McFrappe", pot1:"France", pot2:"Morocco", pot3:"Norway", pot4:"Czech Republic", wildcard:"Argentina", tb_winner:"France", tb_goals:260, tb_boot:"Harry Kane" },
+    { name:"Jack revell", pot1:"France", pot2:"Japan", pot3:"Scotland", pot4:"Czech Republic", wildcard:"Spain", tb_winner:"Spain", tb_goals:291, tb_boot:"Neymar" },
+    { name:"MurderOnZidanesFloor", pot1:"France", pot2:"Croatia", pot3:"Norway", pot4:"Turkey", wildcard:"Spain", tb_winner:"France", tb_goals:300, tb_boot:"Kylian Mbappe" },
+    { name:"Cian Collins", pot1:"Spain", pot2:"Croatia", pot3:"Norway", pot4:"Turkey", wildcard:"Argentina", tb_winner:"France", tb_goals:189, tb_boot:"Kylian Mbappe" },
+    { name:"Conor skehan", pot1:"France", pot2:"Colombia", pot3:"Ivory Coast", pot4:"Turkey", wildcard:"Spain", tb_winner:"France", tb_goals:283, tb_boot:"Kylian Mbappe" },
+    { name:"JayRev", pot1:"England", pot2:"Croatia", pot3:"Paraguay", pot4:"Czech Republic", wildcard:"United States", tb_winner:"Brazil", tb_goals:189, tb_boot:"Lamine lamal" },
+    { name:"Dina", pot1:"Spain", pot2:"Morocco", pot3:"Egypt", pot4:"Turkey", wildcard:"Argentina", tb_winner:"Spain", tb_goals:263, tb_boot:"Oyarzabal" },
+    { name:"Ciaran Slattery", pot1:"Argentina", pot2:"Uruguay", pot3:"Norway", pot4:"Ghana", wildcard:"Spain", tb_winner:"Brazil", tb_goals:186, tb_boot:"Ferran Torres" },
+    { name:"Kevin B", pot1:"Spain", pot2:"Croatia", pot3:"Paraguay", pot4:"Ghana", wildcard:"France", tb_winner:"Spain", tb_goals:170, tb_boot:"Kylian Mbappe" },
+    { name:"Brian Crotty", pot1:"Spain", pot2:"Japan", pot3:"Norway", pot4:"Sweden", wildcard:"France", tb_winner:"Spain", tb_goals:177, tb_boot:"Harry Kane" },
+    { name:"Dean Murphy", pot1:"France", pot2:"Croatia", pot3:"Norway", pot4:"Sweden", wildcard:"Argentina", tb_winner:"Brazil", tb_goals:168, tb_boot:"Kylian Mbappe" },
+    { name:"Megan Farr", pot1:"Spain", pot2:"Morocco", pot3:"Norway", pot4:"Turkey", wildcard:"France", tb_winner:"Spain", tb_goals:282, tb_boot:"Yamal" },
+    { name:"Gloria O Regan", pot1:"Netherlands", pot2:"Uruguay", pot3:"Norway", pot4:"Sweden", wildcard:"Spain", tb_winner:"Spain", tb_goals:284, tb_boot:"Harry kane" },
+    { name:"Fiona Harte", pot1:"Argentina", pot2:"Croatia", pot3:"Norway", pot4:"Ghana", wildcard:"Spain", tb_winner:"Spain", tb_goals:295, tb_boot:"Kylian Mbappe" },
+    { name:"Bonbon Athletics", pot1:"Brazil", pot2:"Japan", pot3:"Scotland", pot4:"Sweden", wildcard:"Spain", tb_winner:"Brazil", tb_goals:210, tb_boot:"Erling Haaland" },
+    { name:"Dean Walsh", pot1:"France", pot2:"Uruguay", pot3:"Scotland", pot4:"Bosnia and Herzegovina", wildcard:"Germany", tb_winner:"France", tb_goals:176, tb_boot:"Dembele" },
+    { name:"Pauly", pot1:"England", pot2:"Colombia", pot3:"Norway", pot4:"Turkey", wildcard:"Spain", tb_winner:"Spain", tb_goals:241, tb_boot:"Harry Kane" },
+    { name:"James Conroy", pot1:"Spain", pot2:"Morocco", pot3:"Egypt", pot4:"Sweden", wildcard:"France", tb_winner:"Spain", tb_goals:170, tb_boot:"Kylian Mbappe" },
+    { name:"Rafael Antunes", pot1:"Portugal", pot2:"Japan", pot3:"Norway", pot4:"Cape Verde", wildcard:"France", tb_winner:"Portugal", tb_goals:350, tb_boot:"Harry Kane" },
+    { name:"Puds", pot1:"Brazil", pot2:"Uruguay", pot3:"Ivory Coast", pot4:"Sweden", wildcard:"Portugal", tb_winner:"Portugal", tb_goals:229, tb_boot:"Kylian Mbappe" },
   ];
   // ─────────────────────────────────────────────────────────────────────
 </script>
@@ -341,7 +338,7 @@
   // Render the leaderboard — scores map + set of eliminated team names
   function renderLeaderboard(scoresMap, eliminatedSet = new Set()) {
     const participants = picks.map(p => {
-      const s = scoresMap[p.name] || { matchPts: 0, stagePts: 0, gf: 0, ga: 0, maxPossible: 999 };
+      const s = scoresMap[p.name] || { matchPts: 0, stagePts: 0, gf: 0, ga: 0, maxPossible: 999, canStillWin: true };
       return { ...p, ...s, total: s.matchPts + s.stagePts, gd: s.gf - s.ga };
     }).sort((a, b) =>
       b.total !== a.total ? b.total - a.total :
@@ -349,11 +346,9 @@
       b.gf    - a.gf
     );
 
-    // Mark out-of-contention participants
+    // Mark out-of-contention participants — sourced directly from scores.json
     participants.forEach(p => {
-      const maxPossible = p.maxPossible ?? 999;
-      const betterCount = participants.filter(o => o.total > maxPossible).length;
-      p.outOfContention = betterCount >= 2;
+      p.outOfContention = p.canStillWin === false;
     });
 
     const medals  = ['🥇', '🥈'];
