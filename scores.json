@@ -1,9 +1,10 @@
 {
-  "lastUpdated": "2026-07-03T05:01:02Z",
+  "lastUpdated": "2026-07-03T05:15:31Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 263,
+  "actualTotalGoals": 265,
   "eliminatedTeams": [
+    "Algeria",
     "Austria",
     "Bosnia and Herzegovina",
     "Cura\u00e7ao",
@@ -51,11 +52,11 @@
     },
     {
       "name": "Michael Q",
-      "matchPts": 35,
-      "stagePts": 18,
-      "gf": 43,
+      "matchPts": 38,
+      "stagePts": 21,
+      "gf": 45,
       "ga": 24,
-      "maxPossible": 163
+      "maxPossible": 166
     },
     {
       "name": "Cormac Sheehy",
