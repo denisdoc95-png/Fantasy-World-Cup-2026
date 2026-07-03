@@ -1,12 +1,13 @@
 {
-  "lastUpdated": "2026-07-03T14:30:58Z",
+  "lastUpdated": "2026-07-03T14:40:54Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 265,
+  "actualTotalGoals": 264,
   "eliminatedTeams": [
     "Algeria",
     "Austria",
     "Bosnia and Herzegovina",
+    "Croatia",
     "Cura\u00e7ao",
     "Czech Republic",
     "DR Congo",
@@ -46,7 +47,7 @@
       "name": "Rob Morgan",
       "matchPts": 40,
       "stagePts": 24,
-      "gf": 40,
+      "gf": 39,
       "ga": 19,
       "maxPossible": 174
     },
@@ -102,7 +103,7 @@
       "name": "MurderOnZidanesFloor",
       "matchPts": 40,
       "stagePts": 21,
-      "gf": 41,
+      "gf": 40,
       "ga": 22,
       "maxPossible": 171
     },
@@ -110,7 +111,7 @@
       "name": "Cian Collins",
       "matchPts": 37,
       "stagePts": 18,
-      "gf": 36,
+      "gf": 35,
       "ga": 21,
       "maxPossible": 168
     },
@@ -126,7 +127,7 @@
       "name": "JayRev",
       "matchPts": 33,
       "stagePts": 21,
-      "gf": 30,
+      "gf": 29,
       "ga": 25,
       "maxPossible": 167
     },
@@ -150,7 +151,7 @@
       "name": "Kevin B",
       "matchPts": 39,
       "stagePts": 24,
-      "gf": 33,
+      "gf": 32,
       "ga": 16,
       "maxPossible": 173
     },
@@ -166,7 +167,7 @@
       "name": "Dean Murphy",
       "matchPts": 40,
       "stagePts": 21,
-      "gf": 45,
+      "gf": 44,
       "ga": 28,
       "maxPossible": 174
     },
@@ -190,7 +191,7 @@
       "name": "Fiona Harte",
       "matchPts": 38,
       "stagePts": 21,
-      "gf": 35,
+      "gf": 34,
       "ga": 18,
       "maxPossible": 172
     },
@@ -228,19 +229,19 @@
     },
     {
       "name": "Rafael Antunes",
-      "matchPts": 34,
-      "stagePts": 21,
+      "matchPts": 37,
+      "stagePts": 24,
       "gf": 41,
-      "ga": 20,
-      "maxPossible": 168
+      "ga": 19,
+      "maxPossible": 171
     },
     {
       "name": "Puds",
-      "matchPts": 27,
-      "stagePts": 15,
+      "matchPts": 30,
+      "stagePts": 18,
       "gf": 32,
-      "ga": 23,
-      "maxPossible": 155
+      "ga": 22,
+      "maxPossible": 158
     }
   ]
 }
