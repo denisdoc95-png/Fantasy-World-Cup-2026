@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T18:01:08Z",
+  "lastUpdated": "2026-07-03T18:15:34Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 264,
@@ -137,7 +137,7 @@
       "stagePts": 18,
       "gf": 31,
       "ga": 14,
-      "maxPossible": 63
+      "maxPossible": 60
     },
     {
       "name": "Ciaran Slattery",
@@ -225,7 +225,7 @@
       "stagePts": 24,
       "gf": 40,
       "ga": 20,
-      "maxPossible": 73
+      "maxPossible": 70
     },
     {
       "name": "Rafael Antunes",
