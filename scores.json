@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-03T01:01:03Z",
+  "lastUpdated": "2026-07-03T01:15:33Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 259,
+  "actualTotalGoals": 263,
   "eliminatedTeams": [
     "Austria",
     "Bosnia and Herzegovina",
@@ -45,8 +45,8 @@
       "name": "Rob Morgan",
       "matchPts": 40,
       "stagePts": 24,
-      "gf": 38,
-      "ga": 17,
+      "gf": 40,
+      "ga": 19,
       "maxPossible": 174
     },
     {
@@ -101,16 +101,16 @@
       "name": "MurderOnZidanesFloor",
       "matchPts": 40,
       "stagePts": 21,
-      "gf": 39,
-      "ga": 20,
+      "gf": 41,
+      "ga": 22,
       "maxPossible": 171
     },
     {
       "name": "Cian Collins",
       "matchPts": 37,
       "stagePts": 18,
-      "gf": 34,
-      "ga": 19,
+      "gf": 36,
+      "ga": 21,
       "maxPossible": 168
     },
     {
@@ -125,8 +125,8 @@
       "name": "JayRev",
       "matchPts": 33,
       "stagePts": 21,
-      "gf": 28,
-      "ga": 23,
+      "gf": 30,
+      "ga": 25,
       "maxPossible": 167
     },
     {
@@ -149,8 +149,8 @@
       "name": "Kevin B",
       "matchPts": 39,
       "stagePts": 24,
-      "gf": 31,
-      "ga": 14,
+      "gf": 33,
+      "ga": 16,
       "maxPossible": 173
     },
     {
@@ -165,8 +165,8 @@
       "name": "Dean Murphy",
       "matchPts": 40,
       "stagePts": 21,
-      "gf": 43,
-      "ga": 26,
+      "gf": 45,
+      "ga": 28,
       "maxPossible": 174
     },
     {
@@ -189,8 +189,8 @@
       "name": "Fiona Harte",
       "matchPts": 38,
       "stagePts": 21,
-      "gf": 33,
-      "ga": 16,
+      "gf": 35,
+      "ga": 18,
       "maxPossible": 172
     },
     {
@@ -229,16 +229,16 @@
       "name": "Rafael Antunes",
       "matchPts": 34,
       "stagePts": 21,
-      "gf": 39,
-      "ga": 18,
+      "gf": 41,
+      "ga": 20,
       "maxPossible": 168
     },
     {
       "name": "Puds",
       "matchPts": 27,
       "stagePts": 15,
-      "gf": 30,
-      "ga": 21,
+      "gf": 32,
+      "ga": 23,
       "maxPossible": 155
     }
   ]
