@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T22:01:07Z",
+  "lastUpdated": "2026-07-03T22:15:31Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 272,
@@ -42,7 +42,7 @@
       "stagePts": 21,
       "gf": 41,
       "ga": 20,
-      "maxPossible": 76
+      "maxPossible": 73
     },
     {
       "name": "Rob Morgan",
@@ -50,7 +50,7 @@
       "stagePts": 24,
       "gf": 39,
       "ga": 19,
-      "maxPossible": 73
+      "maxPossible": 70
     },
     {
       "name": "Michael Q",
@@ -66,7 +66,7 @@
       "stagePts": 24,
       "gf": 45,
       "ga": 25,
-      "maxPossible": 80
+      "maxPossible": 77
     },
     {
       "name": "Stephen Quinn",
@@ -90,7 +90,7 @@
       "stagePts": 21,
       "gf": 40,
       "ga": 21,
-      "maxPossible": 74
+      "maxPossible": 71
     },
     {
       "name": "Jack revell",
@@ -114,7 +114,7 @@
       "stagePts": 18,
       "gf": 35,
       "ga": 21,
-      "maxPossible": 61
+      "maxPossible": 58
     },
     {
       "name": "Conor skehan",
@@ -138,7 +138,7 @@
       "stagePts": 21,
       "gf": 32,
       "ga": 15,
-      "maxPossible": 66
+      "maxPossible": 63
     },
     {
       "name": "Ciaran Slattery",
@@ -146,7 +146,7 @@
       "stagePts": 18,
       "gf": 31,
       "ga": 15,
-      "maxPossible": 61
+      "maxPossible": 58
     },
     {
       "name": "Kevin B",
@@ -170,7 +170,7 @@
       "stagePts": 21,
       "gf": 44,
       "ga": 28,
-      "maxPossible": 70
+      "maxPossible": 67
     },
     {
       "name": "Megan Farr",
@@ -194,7 +194,7 @@
       "stagePts": 21,
       "gf": 34,
       "ga": 18,
-      "maxPossible": 68
+      "maxPossible": 65
     },
     {
       "name": "Bonbon Athletics",
@@ -234,7 +234,7 @@
       "stagePts": 24,
       "gf": 41,
       "ga": 19,
-      "maxPossible": 70
+      "maxPossible": 67
     },
     {
       "name": "Puds",
