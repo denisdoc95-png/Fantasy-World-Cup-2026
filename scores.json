@@ -1,13 +1,14 @@
 {
-  "lastUpdated": "2026-07-04T19:01:12Z",
+  "lastUpdated": "2026-07-04T19:10:38Z",
   "currentStage": "\u26bd Round of 16 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 278,
+  "actualTotalGoals": 281,
   "eliminatedTeams": [
     "Algeria",
     "Australia",
     "Austria",
     "Bosnia and Herzegovina",
+    "Canada",
     "Cape Verde",
     "Croatia",
     "Cura\u00e7ao",
@@ -40,9 +41,9 @@
   "participants": [
     {
       "name": "Jackoooo",
-      "matchPts": 43,
-      "stagePts": 24,
-      "gf": 41,
+      "matchPts": 46,
+      "stagePts": 27,
+      "gf": 44,
       "ga": 20,
       "maxPossible": 134,
       "canStillWin": true
@@ -67,9 +68,9 @@
     },
     {
       "name": "Cormac Sheehy",
-      "matchPts": 44,
-      "stagePts": 27,
-      "gf": 45,
+      "matchPts": 47,
+      "stagePts": 30,
+      "gf": 48,
       "ga": 25,
       "maxPossible": 138,
       "canStillWin": true
@@ -85,18 +86,18 @@
     },
     {
       "name": "Denis OC",
-      "matchPts": 45,
-      "stagePts": 27,
-      "gf": 45,
+      "matchPts": 48,
+      "stagePts": 30,
+      "gf": 48,
       "ga": 24,
       "maxPossible": 139,
       "canStillWin": true
     },
     {
       "name": "Kylian McFrappe",
-      "matchPts": 41,
-      "stagePts": 24,
-      "gf": 40,
+      "matchPts": 44,
+      "stagePts": 27,
+      "gf": 43,
       "ga": 21,
       "maxPossible": 132,
       "canStillWin": false
@@ -148,9 +149,9 @@
     },
     {
       "name": "Dina",
-      "matchPts": 39,
-      "stagePts": 24,
-      "gf": 32,
+      "matchPts": 42,
+      "stagePts": 27,
+      "gf": 35,
       "ga": 15,
       "maxPossible": 124,
       "canStillWin": true
@@ -193,9 +194,9 @@
     },
     {
       "name": "Megan Farr",
-      "matchPts": 44,
-      "stagePts": 24,
-      "gf": 41,
+      "matchPts": 47,
+      "stagePts": 27,
+      "gf": 44,
       "ga": 19,
       "maxPossible": 135,
       "canStillWin": true
@@ -247,9 +248,9 @@
     },
     {
       "name": "James Conroy",
-      "matchPts": 43,
-      "stagePts": 27,
-      "gf": 41,
+      "matchPts": 46,
+      "stagePts": 30,
+      "gf": 44,
       "ga": 21,
       "maxPossible": 137,
       "canStillWin": true
