@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-04T03:31:03Z",
-  "currentStage": "\u26bd Round of 32 \u2014 In Progress",
+  "lastUpdated": "2026-07-04T03:45:34Z",
+  "currentStage": "\u26bd Round of 16 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 277,
+  "actualTotalGoals": 278,
   "eliminatedTeams": [
     "Algeria",
     "Australia",
@@ -15,6 +15,7 @@
     "DR Congo",
     "Ecuador",
     "Germany",
+    "Ghana",
     "Haiti",
     "Iran",
     "Iraq",
@@ -129,9 +130,9 @@
     },
     {
       "name": "Conor skehan",
-      "matchPts": 38,
-      "stagePts": 18,
-      "gf": 33,
+      "matchPts": 41,
+      "stagePts": 21,
+      "gf": 34,
       "ga": 12,
       "maxPossible": 123,
       "canStillWin": true
@@ -159,17 +160,17 @@
       "matchPts": 34,
       "stagePts": 18,
       "gf": 31,
-      "ga": 15,
-      "maxPossible": 131,
-      "canStillWin": true
+      "ga": 16,
+      "maxPossible": 119,
+      "canStillWin": false
     },
     {
       "name": "Kevin B",
       "matchPts": 39,
       "stagePts": 24,
       "gf": 32,
-      "ga": 16,
-      "maxPossible": 130,
+      "ga": 17,
+      "maxPossible": 106,
       "canStillWin": true
     },
     {
@@ -213,8 +214,8 @@
       "matchPts": 38,
       "stagePts": 21,
       "gf": 34,
-      "ga": 18,
-      "maxPossible": 138,
+      "ga": 19,
+      "maxPossible": 126,
       "canStillWin": true
     },
     {
@@ -237,9 +238,9 @@
     },
     {
       "name": "Pauly",
-      "matchPts": 39,
-      "stagePts": 21,
-      "gf": 33,
+      "matchPts": 42,
+      "stagePts": 24,
+      "gf": 34,
       "ga": 17,
       "maxPossible": 133,
       "canStillWin": true
