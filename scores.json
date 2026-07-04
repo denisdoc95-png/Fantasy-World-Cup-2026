@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T06:01:10Z",
+  "lastUpdated": "2026-07-04T06:15:33Z",
   "currentStage": "\u26bd Round of 16 \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 278,
@@ -41,10 +41,10 @@
     {
       "name": "Jackoooo",
       "matchPts": 43,
-      "stagePts": 21,
+      "stagePts": 24,
       "gf": 41,
       "ga": 20,
-      "maxPossible": 137,
+      "maxPossible": 134,
       "canStillWin": true
     },
     {
@@ -68,10 +68,10 @@
     {
       "name": "Cormac Sheehy",
       "matchPts": 44,
-      "stagePts": 24,
+      "stagePts": 27,
       "gf": 45,
       "ga": 25,
-      "maxPossible": 141,
+      "maxPossible": 138,
       "canStillWin": true
     },
     {
@@ -95,10 +95,10 @@
     {
       "name": "Kylian McFrappe",
       "matchPts": 41,
-      "stagePts": 21,
+      "stagePts": 24,
       "gf": 40,
       "ga": 21,
-      "maxPossible": 135,
+      "maxPossible": 132,
       "canStillWin": false
     },
     {
@@ -122,10 +122,10 @@
     {
       "name": "Cian Collins",
       "matchPts": 37,
-      "stagePts": 18,
+      "stagePts": 21,
       "gf": 35,
       "ga": 21,
-      "maxPossible": 122,
+      "maxPossible": 119,
       "canStillWin": true
     },
     {
@@ -149,19 +149,19 @@
     {
       "name": "Dina",
       "matchPts": 39,
-      "stagePts": 21,
+      "stagePts": 24,
       "gf": 32,
       "ga": 15,
-      "maxPossible": 127,
+      "maxPossible": 124,
       "canStillWin": true
     },
     {
       "name": "Ciaran Slattery",
       "matchPts": 34,
-      "stagePts": 18,
+      "stagePts": 21,
       "gf": 31,
       "ga": 16,
-      "maxPossible": 119,
+      "maxPossible": 116,
       "canStillWin": false
     },
     {
@@ -185,10 +185,10 @@
     {
       "name": "Dean Murphy",
       "matchPts": 40,
-      "stagePts": 21,
+      "stagePts": 24,
       "gf": 44,
       "ga": 28,
-      "maxPossible": 128,
+      "maxPossible": 125,
       "canStillWin": false
     },
     {
@@ -212,10 +212,10 @@
     {
       "name": "Fiona Harte",
       "matchPts": 38,
-      "stagePts": 21,
+      "stagePts": 24,
       "gf": 34,
       "ga": 19,
-      "maxPossible": 126,
+      "maxPossible": 123,
       "canStillWin": true
     },
     {
