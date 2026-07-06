@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-06T03:01:13Z",
+  "lastUpdated": "2026-07-06T03:15:38Z",
   "currentStage": "\u26bd Round of 16 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 285,
+  "actualTotalGoals": 290,
   "eliminatedTeams": [
     "Algeria",
     "Australia",
@@ -24,6 +24,7 @@
     "Ivory Coast",
     "Japan",
     "Jordan",
+    "Mexico",
     "Netherlands",
     "New Zealand",
     "Panama",
@@ -79,10 +80,10 @@
     },
     {
       "name": "Stephen Quinn",
-      "matchPts": 35,
-      "stagePts": 21,
-      "gf": 40,
-      "ga": 28,
+      "matchPts": 38,
+      "stagePts": 24,
+      "gf": 43,
+      "ga": 30,
       "maxPossible": 99,
       "canStillWin": false
     },
@@ -142,10 +143,10 @@
     },
     {
       "name": "JayRev",
-      "matchPts": 33,
-      "stagePts": 21,
-      "gf": 29,
-      "ga": 26,
+      "matchPts": 36,
+      "stagePts": 24,
+      "gf": 32,
+      "ga": 28,
       "maxPossible": 103,
       "canStillWin": true
     },
@@ -241,10 +242,10 @@
     },
     {
       "name": "Pauly",
-      "matchPts": 45,
-      "stagePts": 27,
-      "gf": 36,
-      "ga": 18,
+      "matchPts": 48,
+      "stagePts": 30,
+      "gf": 39,
+      "ga": 20,
       "maxPossible": 133,
       "canStillWin": true
     },
