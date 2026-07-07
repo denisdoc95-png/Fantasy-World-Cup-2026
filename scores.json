@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-07T18:01:18Z",
+  "lastUpdated": "2026-07-07T18:15:36Z",
   "currentStage": "\u26bd Round of 16 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 296,
+  "actualTotalGoals": 301,
   "eliminatedTeams": [
     "Algeria",
     "Australia",
@@ -16,6 +16,7 @@
     "Czech Republic",
     "DR Congo",
     "Ecuador",
+    "Egypt",
     "Germany",
     "Ghana",
     "Haiti",
@@ -46,10 +47,10 @@
   "participants": [
     {
       "name": "Jackoooo",
-      "matchPts": 52,
-      "stagePts": 33,
-      "gf": 47,
-      "ga": 21,
+      "matchPts": 55,
+      "stagePts": 36,
+      "gf": 50,
+      "ga": 23,
       "maxPossible": 134,
       "canStillWin": true
     },
@@ -73,10 +74,10 @@
     },
     {
       "name": "Cormac Sheehy",
-      "matchPts": 53,
-      "stagePts": 36,
-      "gf": 51,
-      "ga": 26,
+      "matchPts": 56,
+      "stagePts": 39,
+      "gf": 54,
+      "ga": 28,
       "maxPossible": 138,
       "canStillWin": true
     },
@@ -100,10 +101,10 @@
     },
     {
       "name": "Kylian McFrappe",
-      "matchPts": 50,
-      "stagePts": 33,
-      "gf": 46,
-      "ga": 22,
+      "matchPts": 53,
+      "stagePts": 36,
+      "gf": 49,
+      "ga": 24,
       "maxPossible": 132,
       "canStillWin": false
     },
@@ -127,10 +128,10 @@
     },
     {
       "name": "Cian Collins",
-      "matchPts": 43,
-      "stagePts": 27,
-      "gf": 38,
-      "ga": 22,
+      "matchPts": 46,
+      "stagePts": 30,
+      "gf": 41,
+      "ga": 24,
       "maxPossible": 119,
       "canStillWin": true
     },
@@ -154,19 +155,19 @@
     },
     {
       "name": "Dina",
-      "matchPts": 45,
-      "stagePts": 30,
-      "gf": 36,
-      "ga": 15,
+      "matchPts": 48,
+      "stagePts": 33,
+      "gf": 41,
+      "ga": 20,
       "maxPossible": 124,
       "canStillWin": true
     },
     {
       "name": "Ciaran Slattery",
-      "matchPts": 40,
-      "stagePts": 27,
-      "gf": 34,
-      "ga": 17,
+      "matchPts": 43,
+      "stagePts": 30,
+      "gf": 37,
+      "ga": 19,
       "maxPossible": 116,
       "canStillWin": false
     },
@@ -190,10 +191,10 @@
     },
     {
       "name": "Dean Murphy",
-      "matchPts": 46,
-      "stagePts": 30,
-      "gf": 47,
-      "ga": 29,
+      "matchPts": 49,
+      "stagePts": 33,
+      "gf": 50,
+      "ga": 31,
       "maxPossible": 125,
       "canStillWin": false
     },
@@ -217,10 +218,10 @@
     },
     {
       "name": "Fiona Harte",
-      "matchPts": 44,
-      "stagePts": 30,
-      "gf": 37,
-      "ga": 20,
+      "matchPts": 47,
+      "stagePts": 33,
+      "gf": 40,
+      "ga": 22,
       "maxPossible": 123,
       "canStillWin": true
     },
@@ -255,10 +256,10 @@
       "name": "James Conroy",
       "matchPts": 52,
       "stagePts": 36,
-      "gf": 46,
-      "ga": 21,
-      "maxPossible": 137,
-      "canStillWin": true
+      "gf": 48,
+      "ga": 24,
+      "maxPossible": 119,
+      "canStillWin": false
     },
     {
       "name": "Rafael Antunes",
