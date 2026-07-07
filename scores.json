@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T23:01:23Z",
+  "lastUpdated": "2026-07-07T23:11:06Z",
   "currentStage": "\u26bd Quarter-Finals \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 301,
@@ -11,6 +11,7 @@
     "Brazil",
     "Canada",
     "Cape Verde",
+    "Colombia",
     "Croatia",
     "Cura\u00e7ao",
     "Czech Republic",
@@ -65,8 +66,8 @@
     },
     {
       "name": "Michael Q",
-      "matchPts": 41,
-      "stagePts": 24,
+      "matchPts": 44,
+      "stagePts": 27,
       "gf": 50,
       "ga": 29,
       "maxPossible": 108,
@@ -141,8 +142,8 @@
       "stagePts": 27,
       "gf": 36,
       "ga": 12,
-      "maxPossible": 123,
-      "canStillWin": true
+      "maxPossible": 105,
+      "canStillWin": false
     },
     {
       "name": "JayRev",
@@ -249,7 +250,7 @@
       "stagePts": 33,
       "gf": 40,
       "ga": 20,
-      "maxPossible": 133,
+      "maxPossible": 121,
       "canStillWin": true
     },
     {
