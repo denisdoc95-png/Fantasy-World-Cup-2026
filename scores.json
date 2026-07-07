@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-07T02:01:18Z",
+  "lastUpdated": "2026-07-07T02:15:33Z",
   "currentStage": "\u26bd Round of 16 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 291,
+  "actualTotalGoals": 296,
   "eliminatedTeams": [
     "Algeria",
     "Australia",
@@ -39,6 +39,7 @@
     "Sweden",
     "Tunisia",
     "Turkey",
+    "United States",
     "Uruguay",
     "Uzbekistan"
   ],
@@ -146,10 +147,10 @@
       "name": "JayRev",
       "matchPts": 36,
       "stagePts": 24,
-      "gf": 32,
-      "ga": 28,
-      "maxPossible": 103,
-      "canStillWin": true
+      "gf": 33,
+      "ga": 32,
+      "maxPossible": 85,
+      "canStillWin": false
     },
     {
       "name": "Dina",
