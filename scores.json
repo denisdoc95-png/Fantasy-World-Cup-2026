@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T21:45:33Z",
+  "lastUpdated": "2026-07-07T21:50:58Z",
   "currentStage": "\u26bd Round of 16 \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 301,
@@ -47,19 +47,19 @@
   "participants": [
     {
       "name": "Jackoooo",
-      "matchPts": 55,
+      "matchPts": 58,
       "stagePts": 36,
-      "gf": 50,
-      "ga": 23,
-      "maxPossible": 134,
+      "gf": 56,
+      "ga": 27,
+      "maxPossible": 137,
       "canStillWin": true
     },
     {
       "name": "Rob Morgan",
       "matchPts": 49,
       "stagePts": 33,
-      "gf": 43,
-      "ga": 20,
+      "gf": 45,
+      "ga": 23,
       "maxPossible": 125,
       "canStillWin": false
     },
@@ -67,18 +67,18 @@
       "name": "Michael Q",
       "matchPts": 41,
       "stagePts": 24,
-      "gf": 46,
-      "ga": 24,
+      "gf": 50,
+      "ga": 29,
       "maxPossible": 108,
       "canStillWin": true
     },
     {
       "name": "Cormac Sheehy",
-      "matchPts": 56,
+      "matchPts": 59,
       "stagePts": 39,
-      "gf": 54,
-      "ga": 28,
-      "maxPossible": 138,
+      "gf": 60,
+      "ga": 32,
+      "maxPossible": 141,
       "canStillWin": true
     },
     {
@@ -94,18 +94,18 @@
       "name": "Denis OC",
       "matchPts": 57,
       "stagePts": 39,
-      "gf": 52,
-      "ga": 25,
+      "gf": 55,
+      "ga": 27,
       "maxPossible": 139,
       "canStillWin": true
     },
     {
       "name": "Kylian McFrappe",
-      "matchPts": 53,
+      "matchPts": 56,
       "stagePts": 36,
-      "gf": 49,
-      "ga": 24,
-      "maxPossible": 132,
+      "gf": 55,
+      "ga": 28,
+      "maxPossible": 135,
       "canStillWin": false
     },
     {
@@ -128,11 +128,11 @@
     },
     {
       "name": "Cian Collins",
-      "matchPts": 46,
+      "matchPts": 49,
       "stagePts": 30,
-      "gf": 41,
-      "ga": 24,
-      "maxPossible": 119,
+      "gf": 44,
+      "ga": 26,
+      "maxPossible": 122,
       "canStillWin": true
     },
     {
@@ -148,35 +148,35 @@
       "name": "JayRev",
       "matchPts": 36,
       "stagePts": 24,
-      "gf": 33,
-      "ga": 32,
+      "gf": 38,
+      "ga": 36,
       "maxPossible": 85,
       "canStillWin": false
     },
     {
       "name": "Dina",
-      "matchPts": 48,
+      "matchPts": 51,
       "stagePts": 33,
-      "gf": 41,
-      "ga": 20,
-      "maxPossible": 124,
+      "gf": 51,
+      "ga": 26,
+      "maxPossible": 127,
       "canStillWin": true
     },
     {
       "name": "Ciaran Slattery",
-      "matchPts": 43,
+      "matchPts": 46,
       "stagePts": 30,
-      "gf": 37,
-      "ga": 19,
-      "maxPossible": 116,
+      "gf": 40,
+      "ga": 21,
+      "maxPossible": 119,
       "canStillWin": false
     },
     {
       "name": "Kevin B",
       "matchPts": 45,
       "stagePts": 30,
-      "gf": 34,
-      "ga": 18,
+      "gf": 39,
+      "ga": 22,
       "maxPossible": 106,
       "canStillWin": false
     },
@@ -191,19 +191,19 @@
     },
     {
       "name": "Dean Murphy",
-      "matchPts": 49,
+      "matchPts": 52,
       "stagePts": 33,
-      "gf": 50,
-      "ga": 31,
-      "maxPossible": 125,
+      "gf": 53,
+      "ga": 33,
+      "maxPossible": 128,
       "canStillWin": false
     },
     {
       "name": "Megan Farr",
       "matchPts": 56,
       "stagePts": 36,
-      "gf": 48,
-      "ga": 20,
+      "gf": 51,
+      "ga": 22,
       "maxPossible": 135,
       "canStillWin": true
     },
@@ -211,18 +211,18 @@
       "name": "Gloria O Regan",
       "matchPts": 38,
       "stagePts": 24,
-      "gf": 42,
-      "ga": 28,
+      "gf": 44,
+      "ga": 31,
       "maxPossible": 99,
       "canStillWin": false
     },
     {
       "name": "Fiona Harte",
-      "matchPts": 47,
+      "matchPts": 50,
       "stagePts": 33,
-      "gf": 40,
-      "ga": 22,
-      "maxPossible": 123,
+      "gf": 43,
+      "ga": 24,
+      "maxPossible": 126,
       "canStillWin": true
     },
     {
@@ -238,8 +238,8 @@
       "name": "Dean Walsh",
       "matchPts": 30,
       "stagePts": 15,
-      "gf": 34,
-      "ga": 23,
+      "gf": 38,
+      "ga": 28,
       "maxPossible": 70,
       "canStillWin": false
     },
@@ -256,8 +256,8 @@
       "name": "James Conroy",
       "matchPts": 52,
       "stagePts": 36,
-      "gf": 48,
-      "ga": 24,
+      "gf": 55,
+      "ga": 28,
       "maxPossible": 119,
       "canStillWin": false
     },
@@ -265,8 +265,8 @@
       "name": "Rafael Antunes",
       "matchPts": 43,
       "stagePts": 30,
-      "gf": 44,
-      "ga": 21,
+      "gf": 46,
+      "ga": 24,
       "maxPossible": 110,
       "canStillWin": false
     },
