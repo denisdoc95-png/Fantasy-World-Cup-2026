@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-11T23:45:39Z",
+  "lastUpdated": "2026-07-12T00:01:25Z",
   "currentStage": "\u26bd Quarter-Finals \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 306,
+  "actualTotalGoals": 309,
   "eliminatedTeams": [
     "Algeria",
     "Australia",
@@ -31,6 +31,7 @@
     "Morocco",
     "Netherlands",
     "New Zealand",
+    "Norway",
     "Panama",
     "Paraguay",
     "Portugal",
@@ -54,7 +55,7 @@
       "stagePts": 39,
       "gf": 58,
       "ga": 29,
-      "maxPossible": 137,
+      "maxPossible": 131,
       "canStillWin": true
     },
     {
@@ -63,7 +64,7 @@
       "stagePts": 39,
       "gf": 49,
       "ga": 24,
-      "maxPossible": 125,
+      "maxPossible": 113,
       "canStillWin": false
     },
     {
@@ -81,7 +82,7 @@
       "stagePts": 42,
       "gf": 62,
       "ga": 34,
-      "maxPossible": 141,
+      "maxPossible": 135,
       "canStillWin": true
     },
     {
@@ -99,7 +100,7 @@
       "stagePts": 45,
       "gf": 59,
       "ga": 30,
-      "maxPossible": 139,
+      "maxPossible": 127,
       "canStillWin": true
     },
     {
@@ -108,7 +109,7 @@
       "stagePts": 39,
       "gf": 57,
       "ga": 30,
-      "maxPossible": 135,
+      "maxPossible": 129,
       "canStillWin": false
     },
     {
@@ -126,7 +127,7 @@
       "stagePts": 36,
       "gf": 48,
       "ga": 24,
-      "maxPossible": 122,
+      "maxPossible": 110,
       "canStillWin": false
     },
     {
@@ -135,8 +136,8 @@
       "stagePts": 33,
       "gf": 46,
       "ga": 27,
-      "maxPossible": 122,
-      "canStillWin": true
+      "maxPossible": 116,
+      "canStillWin": false
     },
     {
       "name": "Conor skehan",
@@ -171,7 +172,7 @@
       "stagePts": 33,
       "gf": 42,
       "ga": 22,
-      "maxPossible": 119,
+      "maxPossible": 113,
       "canStillWin": false
     },
     {
@@ -189,7 +190,7 @@
       "stagePts": 39,
       "gf": 54,
       "ga": 27,
-      "maxPossible": 125,
+      "maxPossible": 113,
       "canStillWin": false
     },
     {
@@ -198,7 +199,7 @@
       "stagePts": 36,
       "gf": 55,
       "ga": 33,
-      "maxPossible": 128,
+      "maxPossible": 122,
       "canStillWin": false
     },
     {
@@ -207,7 +208,7 @@
       "stagePts": 42,
       "gf": 55,
       "ga": 25,
-      "maxPossible": 135,
+      "maxPossible": 123,
       "canStillWin": true
     },
     {
@@ -216,7 +217,7 @@
       "stagePts": 27,
       "gf": 46,
       "ga": 32,
-      "maxPossible": 99,
+      "maxPossible": 87,
       "canStillWin": false
     },
     {
@@ -225,7 +226,7 @@
       "stagePts": 36,
       "gf": 45,
       "ga": 25,
-      "maxPossible": 126,
+      "maxPossible": 120,
       "canStillWin": true
     },
     {
@@ -270,7 +271,7 @@
       "stagePts": 33,
       "gf": 48,
       "ga": 24,
-      "maxPossible": 110,
+      "maxPossible": 98,
       "canStillWin": false
     },
     {
