@@ -4912,7 +4912,7 @@
       "crest": "https://crests.football-data.org/761.svg"
     },
     "score": {
-      "winner": null,
+      "winner": "AWAY_TEAM",
       "duration": "REGULAR",
       "fullTime": {
         "home": 5,
