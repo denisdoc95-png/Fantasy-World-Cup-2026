@@ -4318,11 +4318,11 @@
       "crest": "https://crests.football-data.org/iran.svg"
     },
     "score": {
-      "winner": "AWAY_TEAM",
+      "winner": "DRAW",
       "duration": "REGULAR",
       "fullTime": {
         "home": 1,
-        "away": 2
+        "away": 1
       },
       "halfTime": {
         "home": 1,
