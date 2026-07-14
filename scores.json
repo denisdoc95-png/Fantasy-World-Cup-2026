@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-14T21:15:38Z",
-  "currentStage": "\u26bd Semi-Finals \u2014 In Progress",
+  "lastUpdated": "2026-07-14T21:31:15Z",
+  "currentStage": "\u23f3 Tournament begins 11 June 2026",
   "actualTournamentWinner": "",
   "actualTotalGoals": 315,
   "eliminatedTeams": [
@@ -166,7 +166,7 @@
       "gf": 58,
       "ga": 30,
       "maxPossible": 121,
-      "canStillWin": false
+      "canStillWin": true
     },
     {
       "name": "Ciaran Slattery",
@@ -229,7 +229,7 @@
       "gf": 51,
       "ga": 28,
       "maxPossible": 120,
-      "canStillWin": false
+      "canStillWin": true
     },
     {
       "name": "Bonbon Athletics",
