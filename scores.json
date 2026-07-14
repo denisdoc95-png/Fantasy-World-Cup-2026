@@ -166,7 +166,7 @@
       "gf": 58,
       "ga": 29,
       "maxPossible": 122,
-      "canStillWin": true
+      "canStillWin": false
     },
     {
       "name": "Ciaran Slattery",
@@ -229,7 +229,7 @@
       "gf": 51,
       "ga": 28,
       "maxPossible": 120,
-      "canStillWin": true
+      "canStillWin": false
     },
     {
       "name": "Bonbon Athletics",
