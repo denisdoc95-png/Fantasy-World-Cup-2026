@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-14T21:31:15Z",
-  "currentStage": "\u23f3 Tournament begins 11 June 2026",
+  "lastUpdated": "2026-07-14T21:43:37Z",
+  "currentStage": "\u26bd Semi-Finals \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 315,
+  "actualTotalGoals": 314,
   "eliminatedTeams": [
     "Algeria",
     "Australia",
@@ -161,11 +161,11 @@
     },
     {
       "name": "Dina",
-      "matchPts": 60,
+      "matchPts": 61,
       "stagePts": 42,
       "gf": 58,
-      "ga": 30,
-      "maxPossible": 121,
+      "ga": 29,
+      "maxPossible": 122,
       "canStillWin": true
     },
     {
@@ -260,11 +260,11 @@
     },
     {
       "name": "James Conroy",
-      "matchPts": 61,
+      "matchPts": 62,
       "stagePts": 45,
       "gf": 61,
-      "ga": 33,
-      "maxPossible": 119,
+      "ga": 32,
+      "maxPossible": 120,
       "canStillWin": false
     },
     {
