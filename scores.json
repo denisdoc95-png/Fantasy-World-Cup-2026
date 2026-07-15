@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-15T21:01:29Z",
-  "currentStage": "\u26bd Semi-Finals \u2014 In Progress",
+  "lastUpdated": "2026-07-15T21:15:34Z",
+  "currentStage": "\u23f3 Tournament begins 11 June 2026",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 314,
+  "actualTotalGoals": 317,
   "eliminatedTeams": [
     "Algeria",
     "Australia",
@@ -19,6 +19,7 @@
     "DR Congo",
     "Ecuador",
     "Egypt",
+    "England",
     "France",
     "Germany",
     "Ghana",
@@ -53,10 +54,10 @@
   "participants": [
     {
       "name": "Jackoooo",
-      "matchPts": 64,
-      "stagePts": 42,
-      "gf": 62,
-      "ga": 34,
+      "matchPts": 67,
+      "stagePts": 45,
+      "gf": 64,
+      "ga": 35,
       "maxPossible": 125,
       "canStillWin": true
     },
@@ -80,10 +81,10 @@
     },
     {
       "name": "Cormac Sheehy",
-      "matchPts": 65,
-      "stagePts": 45,
-      "gf": 66,
-      "ga": 39,
+      "matchPts": 68,
+      "stagePts": 48,
+      "gf": 68,
+      "ga": 40,
       "maxPossible": 129,
       "canStillWin": true
     },
@@ -91,9 +92,9 @@
       "name": "Stephen Quinn",
       "matchPts": 44,
       "stagePts": 30,
-      "gf": 47,
-      "ga": 33,
-      "maxPossible": 93,
+      "gf": 48,
+      "ga": 35,
+      "maxPossible": 74,
       "canStillWin": false
     },
     {
@@ -107,10 +108,10 @@
     },
     {
       "name": "Kylian McFrappe",
-      "matchPts": 62,
-      "stagePts": 42,
-      "gf": 61,
-      "ga": 35,
+      "matchPts": 65,
+      "stagePts": 45,
+      "gf": 63,
+      "ga": 36,
       "maxPossible": 123,
       "canStillWin": false
     },
@@ -134,10 +135,10 @@
     },
     {
       "name": "Cian Collins",
-      "matchPts": 58,
-      "stagePts": 39,
-      "gf": 52,
-      "ga": 30,
+      "matchPts": 61,
+      "stagePts": 42,
+      "gf": 54,
+      "ga": 31,
       "maxPossible": 116,
       "canStillWin": false
     },
@@ -154,26 +155,26 @@
       "name": "JayRev",
       "matchPts": 39,
       "stagePts": 27,
-      "gf": 40,
-      "ga": 37,
-      "maxPossible": 85,
+      "gf": 41,
+      "ga": 39,
+      "maxPossible": 66,
       "canStillWin": false
     },
     {
       "name": "Dina",
-      "matchPts": 61,
-      "stagePts": 42,
-      "gf": 58,
-      "ga": 29,
+      "matchPts": 64,
+      "stagePts": 45,
+      "gf": 60,
+      "ga": 30,
       "maxPossible": 122,
       "canStillWin": true
     },
     {
       "name": "Ciaran Slattery",
-      "matchPts": 55,
-      "stagePts": 39,
-      "gf": 48,
-      "ga": 25,
+      "matchPts": 58,
+      "stagePts": 42,
+      "gf": 50,
+      "ga": 26,
       "maxPossible": 113,
       "canStillWin": false
     },
@@ -197,10 +198,10 @@
     },
     {
       "name": "Dean Murphy",
-      "matchPts": 58,
-      "stagePts": 39,
-      "gf": 59,
-      "ga": 38,
+      "matchPts": 61,
+      "stagePts": 42,
+      "gf": 61,
+      "ga": 39,
       "maxPossible": 116,
       "canStillWin": false
     },
@@ -224,10 +225,10 @@
     },
     {
       "name": "Fiona Harte",
-      "matchPts": 59,
-      "stagePts": 42,
-      "gf": 51,
-      "ga": 28,
+      "matchPts": 62,
+      "stagePts": 45,
+      "gf": 53,
+      "ga": 29,
       "maxPossible": 120,
       "canStillWin": true
     },
@@ -253,10 +254,10 @@
       "name": "Pauly",
       "matchPts": 60,
       "stagePts": 42,
-      "gf": 47,
-      "ga": 24,
-      "maxPossible": 121,
-      "canStillWin": true
+      "gf": 48,
+      "ga": 26,
+      "maxPossible": 115,
+      "canStillWin": false
     },
     {
       "name": "James Conroy",
