@@ -1,10 +1,11 @@
 {
-  "lastUpdated": "2026-07-19T22:00:54Z",
+  "lastUpdated": "2026-07-19T22:15:38Z",
   "currentStage": "\ud83c\udfc6 Tournament Complete",
-  "actualTournamentWinner": "",
-  "actualTotalGoals": 307,
+  "actualTournamentWinner": "Spain",
+  "actualTotalGoals": 308,
   "eliminatedTeams": [
     "Algeria",
+    "Argentina",
     "Australia",
     "Austria",
     "Belgium",
@@ -57,15 +58,15 @@
       "matchPts": 67,
       "stagePts": 45,
       "gf": 65,
-      "ga": 39,
-      "maxPossible": 125,
-      "canStillWin": true
+      "ga": 40,
+      "maxPossible": 112,
+      "canStillWin": false
     },
     {
       "name": "Rob Morgan",
-      "matchPts": 58,
-      "stagePts": 42,
-      "gf": 56,
+      "matchPts": 61,
+      "stagePts": 52,
+      "gf": 57,
       "ga": 34,
       "maxPossible": 113,
       "canStillWin": false
@@ -84,9 +85,9 @@
       "matchPts": 68,
       "stagePts": 48,
       "gf": 69,
-      "ga": 44,
-      "maxPossible": 129,
-      "canStillWin": true
+      "ga": 45,
+      "maxPossible": 116,
+      "canStillWin": false
     },
     {
       "name": "Stephen Quinn",
@@ -99,9 +100,9 @@
     },
     {
       "name": "Denis OC",
-      "matchPts": 66,
-      "stagePts": 48,
-      "gf": 63,
+      "matchPts": 69,
+      "stagePts": 58,
+      "gf": 64,
       "ga": 38,
       "maxPossible": 127,
       "canStillWin": true
@@ -111,42 +112,42 @@
       "matchPts": 65,
       "stagePts": 45,
       "gf": 64,
-      "ga": 40,
-      "maxPossible": 123,
+      "ga": 41,
+      "maxPossible": 110,
       "canStillWin": false
     },
     {
       "name": "Jack revell",
-      "matchPts": 46,
-      "stagePts": 30,
-      "gf": 44,
+      "matchPts": 49,
+      "stagePts": 40,
+      "gf": 45,
       "ga": 26,
       "maxPossible": 89,
       "canStillWin": false
     },
     {
       "name": "MurderOnZidanesFloor",
-      "matchPts": 58,
-      "stagePts": 39,
-      "gf": 55,
+      "matchPts": 61,
+      "stagePts": 49,
+      "gf": 56,
       "ga": 34,
       "maxPossible": 110,
       "canStillWin": false
     },
     {
       "name": "Cian Collins",
-      "matchPts": 61,
-      "stagePts": 42,
-      "gf": 54,
-      "ga": 31,
+      "matchPts": 64,
+      "stagePts": 52,
+      "gf": 55,
+      "ga": 32,
       "maxPossible": 116,
       "canStillWin": false
     },
     {
       "name": "Conor skehan",
-      "matchPts": 56,
-      "stagePts": 36,
-      "gf": 46,
+      "matchPts": 59,
+      "stagePts": 46,
+      "gf": 47,
       "ga": 21,
       "maxPossible": 105,
       "canStillWin": false
@@ -162,36 +163,36 @@
     },
     {
       "name": "Dina",
-      "matchPts": 64,
-      "stagePts": 45,
-      "gf": 53,
-      "ga": 26,
+      "matchPts": 67,
+      "stagePts": 55,
+      "gf": 54,
+      "ga": 27,
       "maxPossible": 122,
-      "canStillWin": true
+      "canStillWin": false
     },
     {
       "name": "Ciaran Slattery",
-      "matchPts": 58,
-      "stagePts": 42,
-      "gf": 50,
-      "ga": 26,
+      "matchPts": 61,
+      "stagePts": 52,
+      "gf": 51,
+      "ga": 27,
       "maxPossible": 113,
       "canStillWin": false
     },
     {
       "name": "Kevin B",
-      "matchPts": 54,
-      "stagePts": 39,
-      "gf": 44,
+      "matchPts": 57,
+      "stagePts": 49,
+      "gf": 45,
       "ga": 27,
       "maxPossible": 106,
       "canStillWin": false
     },
     {
       "name": "Brian Crotty",
-      "matchPts": 58,
-      "stagePts": 42,
-      "gf": 61,
+      "matchPts": 61,
+      "stagePts": 52,
+      "gf": 62,
       "ga": 37,
       "maxPossible": 113,
       "canStillWin": false
@@ -201,42 +202,42 @@
       "matchPts": 61,
       "stagePts": 42,
       "gf": 65,
-      "ga": 45,
-      "maxPossible": 116,
+      "ga": 46,
+      "maxPossible": 103,
       "canStillWin": false
     },
     {
       "name": "Megan Farr",
-      "matchPts": 65,
-      "stagePts": 45,
-      "gf": 59,
+      "matchPts": 68,
+      "stagePts": 55,
+      "gf": 60,
       "ga": 33,
       "maxPossible": 123,
       "canStillWin": true
     },
     {
       "name": "Gloria O Regan",
-      "matchPts": 44,
-      "stagePts": 30,
-      "gf": 47,
+      "matchPts": 47,
+      "stagePts": 40,
+      "gf": 48,
       "ga": 31,
       "maxPossible": 87,
       "canStillWin": false
     },
     {
       "name": "Fiona Harte",
-      "matchPts": 62,
-      "stagePts": 45,
-      "gf": 53,
-      "ga": 29,
+      "matchPts": 65,
+      "stagePts": 55,
+      "gf": 54,
+      "ga": 30,
       "maxPossible": 120,
-      "canStillWin": true
+      "canStillWin": false
     },
     {
       "name": "Bonbon Athletics",
-      "matchPts": 41,
-      "stagePts": 27,
-      "gf": 39,
+      "matchPts": 44,
+      "stagePts": 37,
+      "gf": 40,
       "ga": 24,
       "maxPossible": 81,
       "canStillWin": false
@@ -252,18 +253,18 @@
     },
     {
       "name": "Pauly",
-      "matchPts": 63,
-      "stagePts": 42,
-      "gf": 54,
+      "matchPts": 66,
+      "stagePts": 52,
+      "gf": 55,
       "ga": 30,
       "maxPossible": 118,
       "canStillWin": false
     },
     {
       "name": "James Conroy",
-      "matchPts": 62,
-      "stagePts": 45,
-      "gf": 58,
+      "matchPts": 65,
+      "stagePts": 55,
+      "gf": 59,
       "ga": 34,
       "maxPossible": 120,
       "canStillWin": false
